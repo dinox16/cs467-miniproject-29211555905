@@ -1,0 +1,41 @@
+item_id,destination_name,region,budget_level,description,activities_tags
+D001,Makapu‘u Point Lighthouse Trail,"Hawaii, USA",Unknown,"Natural hiking area with paved trail & overlook, ocean views, lighthouse & whale-watching potential.","Hiking area, Park, Tourist attraction"
+D002,Makapuʻu Lookout,"Hawaii, USA",Unknown,"Popular scenic lookout with views of turquoise ocean, mountains, a lighthouse & whales in season.","Vista point, Tourist attraction"
+D003,Koko Head District Park,"Hawaii, USA",Unknown,"Sprawling collection of sports fields, gardens, picnic areas & stairs climbing a volcanic crater.","Park, Hiking area, Tourist attraction"
+D004,Koko Crater Botanical Garden,"Hawaii, USA",Unknown,"This 200-acre crater with lake & beach is planted with 60 acres of blooming plants, cacti & foliage.","Botanical garden, Tourist attraction"
+D005,Koko Marina Center,"Hawaii, USA",Unknown,"Shopping center with boutiques, restaurants, water sports, a movie theater & more.","Shopping mall, Clothing store, Coffee shop, Food court, Gas station, Pharmacy, Swimwear store"
+D006,Koko Crater Railway Trailhead,"Hawaii, USA",Unknown,"Steep hike up an abandoned railroad track on Koko Crater, with dramatic ocean & city views.","Hiking area, Tourist attraction"
+D007,Hanauma Bay Nature Preserve,"Hawaii, USA",Unknown,"Known for it’s snorkeling, this beachfront protected park offers a coral reef & diverse marine life.","Nature preserve, Tourist attraction"
+D008,Waimānalo Beach Park,"Hawaii, USA",Unknown,Windward campground on a quiet 3-mile beach with 10 campsites & 3 baseball fields.,"Park, Tourist attraction"
+D009,Pillbox Hike,"Hawaii, USA",Unknown,"This short, sometimes narrow trail features 2 military bunkers & a panoramic view of Lanikai Beach.","Hiking area, Tourist attraction"
+D010,Kailua Beach Park,"Hawaii, USA",Unknown,"Clear water, fine sand & accessible facilities make this a popular spot for aquatic activities.","City park, Park, Tourist attraction"
+D011,Tropical Farms Macadamia Nuts,"Hawaii, USA",Unknown,"Store that began as a roadside vendor, selling macadamia nuts, coffees, chocolates & gift baskets.","Nut store, Tourist attraction"
+D012,Kualoa Regional Park,"Hawaii, USA",Unknown,"Picturesque waterside park offering mountain & ocean views, picnic lawns & beach access.","Park, Tourist attraction"
+D013,Kualoa Ranch,"Hawaii, USA",Unknown,"4,000-acre nature retreat offering ATVs, a zip-line, beaches & tours of Hollywood film locations.","Theme park, Event venue, Farmers' market, Outdoor activity organiser, Ranch, Restaurant, Sightseeing tour agency, Tour operator, Visitor center, Wedding venue"
+D014,Giovanni's Aloha Shrimp,"Hawaii, USA",Medium,Mainstay eatery for boiled shrimp in garlic sauce & plate lunches has casual digs & picnic tables.,"Seafood restaurant, Fast food restaurant"
+D015,Ted's Bakery,"Hawaii, USA",Low,"Shop selling cream pies, cakes, breads & pastries, plus hot sandwiches & plate lunches.","Restaurant, Breakfast restaurant, Cafe, Pie shop"
+D016,North Shore Marketplace,"Hawaii, USA",Unknown,"This shopping center has brand-name clothiers, locally run boutiques, galleries, cafes & eateries.","Shopping mall, Historical landmark"
+D017,Laniakea Beach,"Hawaii, USA",Unknown,Laniakea Beach is listed in Hawaii under the following categories: Tourist attraction.,Tourist attraction
+D018,Shark’s Cove,"Hawaii, USA",Unknown,"Rocky coastal area & tidal pools teeming with small fish for snorkeling, plus showers & restrooms.",Beach
+D019,Banzai Pipeline,"Hawaii, USA",Unknown,Popular reef break known for its powerful waves & international surfing competitions.,Tourist attraction
+D020,Sunset Beach Park,"Hawaii, USA",Unknown,Sunset Beach Park is listed in Hawaii under the following categories: Beach.,Beach
+D021,Dole Plantation,"Hawaii, USA",Unknown,Historic pineapple plantation now attracts families with a train ride & the world's largest maze.,Tourist attraction
+D022,Green World Coffee Farm,"Hawaii, USA",Unknown,Coffee grower's cafe & espresso bar with retail space selling whole beans & Hawaiian specialties.,"Coffee shop, Coffee store"
+D023,Giovanni's Shrimp Truck,"Hawaii, USA",Medium,"Established, graffiti-decorated pit stop for a variety of shrimp plates & a garlic hot dog option.",Seafood restaurant
+D024,Ko Olina Beach Park,"Hawaii, USA",Unknown,"Small public lagoon inside the Ko Olina resort, with a white-sand beach, green lawn & shallow water.","Park, Public beach, Tourist attraction"
+D025,The Byodo-In Temple,"Hawaii, USA",Unknown,Replica of a historic Japanese Buddhist temple featuring manicured grounds & meditation sites.,"Tourist attraction, Memorial park, Scenic spot"
+D026,Ho’omaluhia Botanical Garden,"Hawaii, USA",Unknown,"400 acres of tropical plants along with a man-made freshwater lake, hiking trails & free campground.","Botanical garden, Tourist attraction"
+D027,Honolulu Watershed Forest Reserve,"Hawaii, USA",Unknown,Tropical rainforest featuring hiking trails & access to the famous Manoa Falls waterfall.,"Nature preserve, Hiking area, Tourist attraction"
+D028,Ala Moana Regional Park,"Hawaii, USA",Unknown,"This 100-acre park with a man-made beach offers usually calm surf, plus tennis courts & a pavilion.","City park, Park, Tourist attraction"
+D029,Nico's Pier 38,"Hawaii, USA",Medium,Large waterside hub showcasing locally sourced seafood & dishes mixing French & Hawaiian styles.,"Seafood restaurant, Restaurant"
+D030,Bishop Museum,"Hawaii, USA",Unknown,"Museum showcases exhibits on Hawaiian & other Pacific Island cultures, plus features a planetarium.","Museum, Tourist attraction"
+D031,Pearl Harbor National Memorial,"Hawaii, USA",Unknown,"Site commemorating the 1941 Pearl Harbor attack, featuring USS Arizona Memorial, museum & galleries.","War museum, Tourist attraction"
+D032,Pearl Harbor Historic Sites Visitor Center,"Hawaii, USA",Unknown,This still-active naval base is known for the 1941 attack by Japan that brought the U.S. into WWII.,"Visitor center, Historical landmark, Museum"
+D033,Barefoot Beach Cafe @ Queen's Surf Beach,"Hawaii, USA",Medium,"Outdoor cafe has Hawaiian plates & standard American fare, plus live music & a weekend beach BBQ.","Restaurant, Beach pavillion, Breakfast restaurant, Brunch restaurant, Event venue, Hamburger restaurant, Live music venue, Lunch restaurant, Seafood restaurant, Wedding venue"
+D034,Sans Souci State Recreational Park,"Hawaii, USA",Unknown,Popular stretch of sandy beach with a waterfront walking path & palm-lined lawn for picnicking.,"Park, Tourist attraction"
+D035,Honolulu Zoo,"Hawaii, USA",Unknown,"Popular spot for families covers 42 acres with lush gardens, 900+ animals, a petting zoo & more.","Zoo, Tourist attraction"
+D036,Kapiʻolani Regional Park,"Hawaii, USA",Unknown,"A public, oceanfront park with volcano views, a beach, volleyball, picnicking & canoeing.","Park, Tourist attraction"
+D037,Diamond Head Beach Park,"Hawaii, USA",Unknown,"Formed from volcanic eruption, this landmark park rests in a crater & has stunning shoreline views.","Park, Public beach, Tourist attraction"
+D038,Kaʻena Point State Park,"Hawaii, USA",Unknown,"Remote coastal area with a lava shoreline known for scenic, rugged hiking trails & surfing.","State park, Tourist attraction"
+D039,Kaʻena Point Trail,"Hawaii, USA",Unknown,3.5-mile hiking & biking path on a former railroad bed & dirt road amid dramatic coastal scenery.,"Hiking area, Tourist attraction"
+D040,Waimea Canyon State Park,"Hawaii, USA",Unknown,"Expansive, mountain top gorge known as the ""Grand Canyon of the Pacific"" features sweeping views.","State park, Tourist attraction"

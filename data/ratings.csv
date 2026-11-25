@@ -1,0 +1,496 @@
+user_id,item_id,rating,trip_review
+U001,D001,3,Easily accessible for anyone
+U001,D003,4,Hard hike spectacular view!!
+U001,D007,4,Beautiful place for snorkeling
+U001,D008,4,Good spot to bring the dogs
+U001,D009,5,Beautiful!! The sunset will set on the opposite side of the ocean tho.
+U001,D010,5,What's not to like this gorgeous place!
+U001,D011,3,Good touristy spot
+U001,D012,4,Beach and the mountains are both phenomenal
+U001,D013,5,"What's not to like, fun with astonishing view"
+U001,D016,4,Cute little town
+U001,D018,3,Sunset is beautiful
+U001,D019,3,Come out on surf season
+U001,D020,3,Good spot for sunset and surf
+U001,D021,3,It's a cute place but expensive!
+U001,D026,4,Diff will bring my friends out here !!
+U001,D027,4,Chill short hike with big waterfall in the end
+U001,D034,3,Good spot for water activities
+U001,D037,4,Great place to take the dogs out
+U001,D038,5,Away from the tourists and hello locals!
+U001,D039,4,We loved this place! Not much tourists:)
+U002,D001,5,"Beautiful hike, not too long, paved the entire way and spectacular view."
+U002,D002,5,"Beautiful lookout over the Makapu'u beach. You can see the islands, beach and Sea life Park. The mountains are stunning."
+U002,D005,5,This strip mall has several nice shops and decent parking. There is security on site so you can feel safe about leaving your car there and you have a great selection of shops and restaurants all around.
+U002,D006,5,"One of my favorite hikes. 360 degree views of the island, intense workout, wonderful breeze to cool you off at the top and one of the most epic sunsets you have ever seen."
+U002,D007,5,"Beautiful place to snorkel. There is a hill so be prepared to walk that or pay for the shuttle. There is rental gear available, there is a lifeguard on site, there are bathrooms and showers."
+U002,D009,5,Great hike and spectacular view of the islands. Its also a great hike before sunrise.
+U002,D012,5,"Spectacular view of the Kualoa ranch, Chinaman's hat island and the Koolau mountain range."
+U002,D013,5,"I love this place. Movie set tour, ATV, Horseback, Jungle tour, catamaran, Zipline, gift shop and even a little petting area for different animals. The lunch is also pretty good."
+U002,D015,5,"Do not drive by this place without stopping for some pie. You will feel like eating the entire cake/pie by yourself. Everything is so delicious. Haupia, cheesecake, chocolate, the sandwiches.....oh my"
+U002,D016,5,I love this little shopping center. It reminds me of an old town and still hosts a ton of charm.
+U002,D018,5,"Amazing place to snorkel, scuba dive, cave dive and people watch. One of my favorite dive sites on the island. It's pretty common to see tens of thousands of fish and even a few sea turtles all around you. There are also restrooms, restaurants, gear rental and a supermarket across the street."
+U002,D019,5,You can spend an entire day here just watching the surfers. Restrooms are available and huge surfing events are held here throughout the winter season.
+U002,D020,5,"Great beach for swimming, running, bike path along the edge and restrooms across the street. This is an amazing place to watch the sunset too."
+U002,D021,5,"You have go to stop here for the Dole whip pineapple ice cream. Split it with someone if you dare. Great gift shop with a good selection of arts and crafts. Clean restrooms, train rides, garden, maze, koi ponds and pineapples from all over the world."
+U002,D022,5,"If you are headed to the north shore, you have to stop here. Great selection and the best coffee on the island."
+U002,D023,5,"If you like delicious shrimp, look no further. I am into spicy stuff and was in heaven when I tried the spicy shrimp. Fire in the hole...."
+U002,D024,5,"Great place for families, nice walking path along the lagoons, parking available and a wonderful place to watch the sunset"
+U002,D026,5,"Such a beautiful place. Very relaxed atmosphere, incredible views of the mountain range and a quiet place to just relax."
+U002,D028,5,"Great place to go for a walk, a run, play some activities in the grass fields, decent beach that is not super busy and plenty of paths to get you moving."
+U002,D029,5,"Nico's is one of my favorite seafood restaurants. It's a little off the beaten path and usually requires a car if you are coming from Waikiki but, it's worth the trip. Delicious fish of all varieties."
+U002,D031,5,You take a boat ride out to the memorial and you can still see the oil rising from the battleship.
+U002,D032,5,"The museum is nicely designed to show you from the beginning to the end of the war. There are 4 sites to visit there. Arizona memorial (requires a short boat ride), Battleship Missouri (where the Japanese surrendered), Pacific Aviation Museum and the Bowfin Submarine."
+U002,D033,5,I love this little cafe. Hearing the ocean while you are enjoying your food is magical. It's also a great place to watch the sunset and Friday night fireworks.
+U002,D035,5,Great time and a pretty good zoo to be in the middle of Waikiki. The new elephant habitat is beautiful and looks very natural. Bring sunblock.
+U002,D038,5,"This place is magical. Its a hot hike out there so take plenty of water. There are birds nesting right on the side of the trail, so be careful and respectful. There are often monk seals laying on the beach or swimming in the little tide pools. Beautiful view."
+U002,D039,5,Great trail and its totally worth the hike. You will be amazed at the view from the point.
+U003,D001,3,Easy trail with nice views. Go during whale season to see whales.
+U003,D003,3,Kokohead park is nice. The hike however falls low on my recommendation list compared to others.
+U003,D005,4,Nice center with a variety of shops and restaurants
+U003,D007,5,Hanama bay is an excellent experience.  It suffers from overcrowding.  Swimming out past the break offers less crowded snorkeling and more impressive fish.  The coral is not impressive here due to years of abuse but the fish population is very high.
+U003,D009,5,Always a fantastic hike up the pillboxes.  Great for a sunrise then a great breakfast in Kailua or a mid-day hike then some shave ice.
+U003,D010,5,One of my favorite beaches on the island. Sandy bottom is great for swimming.  Swim out further by flat island and there is some decent snorkeling on a very flat day.  Beach can get fairly crowded on the weekend but still will be far less than near Waikiki.
+U003,D011,5,Great place to stop when driving around the island. Lots of macadamia nits to sample and a place to open and try a fresh macadamia nut for free.
+U003,D015,3,Ted's bakery is ok. I prefer to buy their pies at foodland.
+U003,D018,4,"Good snorkeling, clear water, interesting geography."
+U003,D019,4,Fun place to watch surfers in the winter.  I enjoy other beaches better such as sunset beach.
+U003,D020,5,Great place to come during the summer!
+U003,D021,2,Super touristy and expensive. The Dole whip is good.
+U003,D022,4,Fun place to visit. I like Kauai coffee company better but this is it on Oahu. Worth a stop.
+U003,D023,3,I have taken many visitors and the consensus is: it's good but others have been much better. We now visit different trucks.
+U003,D028,3,Not my favorite beach or park but parking is usually available. Sunset is nice to watch here.
+U003,D029,3,Atmosphere is very nice. Food is not bad. I frequently visit the kailua location and give them 4.5 stars. Here my orange chicken had a worm in it. Staff was friendly but said they were out of orange chicken and offered my meal back or a replacement. I of course took a replacement. The barbeque chicken however was not tender.
+U003,D032,4,Excellent place to learn about Pearl Harbor and see the Arizona Memorial.  You will enjoy if you like history.
+U003,D040,5,Grand Canyon of Hawaii. Quite surprising landscape. Beautiful. Easy access many great overlooks and several good hiking trails.
+U004,D001,5,Tidepools...beautiful and tons of whale sightings.
+U004,D002,5,My favorite view
+U004,D007,5,Always a beautiful place
+U004,D010,5,Beautiful place
+U004,D011,3,Tourist place for coffee and nuts. Nice island and just gleaming feel.
+U004,D013,5,Always fun and beautiful
+U004,D014,3,Not a fan
+U004,D015,3,Didn't care for the chocolate cake.
+U004,D020,5,Windy day
+U004,D021,3,Some cool plants and trees...give yourself 15 min and done
+U004,D024,5,Tons of fun and feels like another island
+U004,D025,5,So beautiful...a must visit.
+U004,D027,5,Beautiful
+U004,D028,5,A beautiful night to watch the fireworks
+U004,D030,5,Much has been improved since my last visit.
+U004,D034,5,Fun beach
+U004,D035,5,Beautiful place
+U004,D036,5,Beautiful park
+U004,D037,4,Enjoy just stopping here and look for whales
+U004,D039,5,Beautiful
+U004,D040,5,Very beautiful and well worth the drive...grand canyon of the Pacific.
+U005,D003,5,"Beauty everywhere, blue waters colorful fish,blue skies ,nice place to visit"
+U005,D005,5,"Great place to find food ,shopping and watch a movie"
+U005,D007,5,"Beautiful, sealife something to experience"
+U005,D010,5,Beautiful beach neighborhoods
+U005,D016,5,"Nice quaint coffee shop,with outside tables wonderful snacks n go go coffee"
+U005,D018,5,Wonderful to snorkel n summer winter waves wash over area
+U005,D020,5,Surf city local style
+U005,D022,5,Nice coffee varieties homemade treats n smoothies
+U005,D024,5,Majestic lagoon pools plenty shade palm trees and beautiful bathrooms
+U005,D028,5,Beautiful beach and magic island make a nice walking path along the beach
+U005,D029,5,"Nice open place went there on motorcycles about a bakers dozen of us n was treated friendly, order get a buzzer when ready,holohol at the bar if like , or like us made a big table thumbs up! Aloha kimo out"
+U005,D030,5,Thankful all the rare items and history have a home were people from all 4 corners of the world can come see the magnificent displays
+U005,D031,5,"Hallowed seas n grounds! Also see the""mighty mo""battleship on Ford island and another must see ""aviation museum """
+U005,D032,5,A beautiful exhibit and memorial for all those that paid the ultimate sacrifice also there is a beautiful Aviation Museum on Ford Island must see
+U005,D036,5,"Big banyan trees, walking path around park,happy hour meets 7 days a week under da big banyan across from tennis courts serenity n aloha"
+U005,D037,5,Beautiful views of ocean n diamondhead area
+U005,D038,5,"End of westside descends at yoko,s or kaiena pont Yokohama bay,blue waters endless to the skies,beautiful sunsets and magnificent fishing out of waianae harbor"
+U005,D039,5,"Nice spot on the island, only nature,s poetry"
+U005,D040,5,A look into gods beautiful creation just lovely n majestic each island are jewels of the ocean
+U006,D003,5,Awesome  walk
+U006,D004,5,Amazing place
+U006,D005,5,Nice job
+U006,D007,5,Awesome  place
+U006,D008,5,Amazing views
+U006,D009,5,Awesome  hike
+U006,D010,5,Yes
+U006,D011,5,Good service
+U006,D012,5,Beautiful and  amazing views
+U006,D013,5,Nice place to  hangout with the tourism industry and local people on vacations visiting there family members
+U006,D015,5,Good  business  sense
+U006,D016,5,Nice place to eat and popular with the tourism industry and local people on vacations visiting there family
+U006,D017,5,Awesome and historical  surf beach
+U006,D019,5,Famous beach
+U006,D020,5,Ultimately  beach
+U006,D021,5,Amazing place
+U006,D027,5,Amazing place
+U006,D028,5,Aloha and mahalo  awesome setups
+U006,D029,5,Yummy
+U006,D030,5,Historically speaking and  pride of the  Hawaiian community
+U006,D031,5,Historically  amazing views
+U006,D032,5,Historically speaking  and  amazing  place
+U006,D033,5,Nice place to eat and popular with the tourism industry
+U006,D034,5,Awesome
+U006,D035,5,Educational and social
+U006,D036,5,Nice place to  hangout
+U006,D037,5,Diamond head beach
+U007,D004,4,"(Translated by Google) You can see some reviews of climbing Koko Head, but this is not Koko Head, but a botanical garden that uses the forest that was built over many years in the Coco Crater that was built about 10,000 years ago. Various flowers, cacti, agave, etc. are planted and you can take a leisurely stroll in the clean air, but there are not many visitors and it is a little-known spot.
+
+(Original)
+ココヘッドに登った口コミをちらほら見かけますが、ここはココヘッドではなく、1万年ほど前にできたココ・クレーターの中に長い年月をかけてできた森林をそのまま利用した植物園です。様々な花、サボテン、アガベ等が植えられていて、綺麗な空気の中でのんびり散策できるのですが、あまり訪れる人はおらず穴場的スポットです。"
+U007,D006,5,"(Translated by Google) Those who have climbed up in 30 minutes can brag about their physical strength. It's really hard to climb up. But if you come to Oaf, please try it once. The view from above is the best.
+
+(Original)
+30分で登り切った人は自分の体力を自慢して良いです。登り切るのはほんとにキツイ。でもオアフに来た人は是非一度はチャレンジしてください。上からの眺めは最高ですよ。"
+U007,D007,4,"(Translated by Google) This is the place to snorkel, but the underwater view is not so beautiful. But there were certainly many fish.
+
+(Original)
+シュノーケルするならここ、という場所なのですが、水中の眺めはそこまで綺麗ではないです。でも魚は確かに多かった。"
+U007,D010,4,"(Translated by Google) The beach here is good, but if you come here, you will go to the next Lanikai Beach.
+
+(Original)
+ここのビーチも良いのですが、ここまで来たらやっぱり隣のラニカイビーチに行ってしまいます。"
+U007,D013,4,"(Translated by Google) There are various attractions that take advantage of the nature of the vast land. It is also used for shooting Jurassic Park, Godzilla, and other movies and dramas.
+
+(Original)
+広大な土地にその自然を利用した様々なアトラクションが用意されています。ジュラシックパークやゴジラ他、色々な映画、ドラマの撮影にも使われています。"
+U007,D017,5,"(Translated by Google) If you come here, you can meet sea turtles with a high probability. If you are lucky, you can also see the sea turtles coming up on the sandy beach.
+
+(Original)
+ここに来れば高い確率で海ガメに会えます。運が良ければ砂浜に上がってきた海ガメを間近で見られることも。"
+U007,D020,5,"(Translated by Google) The sunset on Sunset Beach is the best. There are few people ◎
+
+(Original)
+サンセットビーチで見る夕日はやっぱり最高です。人が少ないのも◎"
+U007,D021,4,"(Translated by Google) When we go to the North Shore, we stop here and eat pineapple ice. The trains that take you around the site are also fun.
+
+(Original)
+ノースショアに行く時は途中でここに寄ってパイナップルアイスを食べていきます。敷地をのんびりまわる列車も楽しいです。"
+U007,D023,5,"(Translated by Google) There are many people, but garlic shrimp is delicious.
+
+(Original)
+人は多いけど、ガーリックシュリンプは美味しいですよ。"
+U007,D025,4,"(Translated by Google) It's quite well made, and there isn't much to see from Japanese people. You can enjoy it normally. It is not a must-see spot, but we recommend that you go there when you have time.
+
+(Original)
+なかなか良く作られていて、日本人から見てもあまりツッコミどころはありません。普通に楽しめます。マストなスポットではありませんが、時間を持て余している時は行ってみる事をお薦めします。"
+U007,D026,4,"(Translated by Google) A very large botanical park. It is convenient to put it in by car and go around freely. Since few tourists come, you can feel the nature of Hawaii quietly.
+
+(Original)
+とても広い植物公園。車で入れて自由にまわれるのが便利。観光客はほとんど来ないので静かにハワイの自然を感じる事ができます。"
+U007,D029,4,"(Translated by Google) A seaside restaurant where you can enjoy a variety of menus, from pizzas with tuna blocks to pokes and loco moco.
+
+(Original)
+マグロのブロックが乗っかったピザ等のユニークなメニューから、ポケ丼やロコモコまで色々楽しめる海沿いのレストラン。"
+U007,D030,5,"(Translated by Google) There are various exhibitions that will satisfy your intellectual curiosity. The building is very quaint.
+
+(Original)
+色々な展示がしてあって知的好奇心を満たしてくれます。建物もとても趣があります。"
+U007,D033,4,"(Translated by Google) I was surprised at the location along the beach where I thought the quality of the food was pretty good and it was very delicious. It is a spot that is not crowded.
+
+(Original)
+ビーチ沿いという立地から、料理のクオリティはそこそこかなと思っていた所、とても美味しかったのでびっくり。そんなに混んでおらず穴場的スポットです。"
+U007,D038,4,"(Translated by Google) I can go by car and I will walk from there. But it's a flat road and it's not so tough. If you are lucky you may be able to see the seal.
+
+(Original)
+車で行けるのは途中までで、そこからは歩いていきます。でも平坦な道でさほどキツくはありません。運が良ければアザラシを見る事ができるかも。"
+U008,D001,5,"(Translated by Google) Makapuu Point Lighthouse Trail is located at the easternmost tip of Oahu, Hawaii. It is a very popular hiking trail on the island, about 1.6 kilometers one way. The hiking trail is an asphalt pavement, the road conditions are very good, the slope is also very gentle, the degree of difficulty is very low, and there are many people pushing baby strollers up the mountain. The scenery along the way is very beautiful. When the weather is clear and the visibility is high, you can also see Molokai and Lanai in the distance, which are two of the eight main islands in Hawaii. Every winter, here is also an excellent whale watching spot, the chance of seeing whales is very great. Makapuu means bulging eyes in Hawaiian.
+
+After climbing to the top, you can have a panoramic view of the southeast coast of Oahu. You can also see a lighthouse in 1909. However, the lighthouse and surrounding land belong to the Coast Guard. The short road leading to the lighthouse is closed. enter. On the top of the mountain, there are many remaining military facilities such as bunkers and lookouts.
+
+This mountain trail does not accept tickets. The iron gate at the intersection of Makapuu Lighthouse Road opens at 7 am and closes at 6:45 pm. There are parking spaces on both sides of the road after entering, and there is also a parking lot at the end, but usually the parking spaces are full, especially on weekends and holidays. The trail lacks shade and is relatively dry and hot. Remember to take sun protection measures, bring plenty of drinking water, and wear sports shoes. It should be noted that there are no toilets along the way and on the top of the mountain.
+
+©️Hawaiian tour guide photographer Youli Zhao WeChat: HiHonolulu
+
+(Original)
+Makapuu Point Lighthouse Trail 位于夏威夷欧胡岛最东端，是岛上非常热门一条徒步爬山小道，单程约1.6公里。该徒步爬山小道为沥青路面，路况非常好，坡度也非常的平缓，难度系数非常低，推着婴儿车上山的人也不少。 一路上的风景都非常漂亮，在天气晴朗能见度高的时候，还可以见到远处的莫洛凯岛和拉奈岛，它们是夏威夷8个主要岛屿中的两个。每年的冬季，这里也是一个绝佳的观鲸地点，看到鲸鱼的机会非常大。Makapuu在夏威夷语里有凸出瞪大的眼睛的意思。
+
+登顶之后，欧胡岛东南海岸的极致美景尽收眼底，还可以见到一座于1909的灯塔，不过灯塔及周围的土地归属于海岸警卫队，通往灯塔的那小段路是封闭的，不可进入。山顶上还有许多残留的碉堡、了望台等军事设施。
+
+这条爬山小道不收门票，位于Makapuu Lighthouse Road路口的铁门早上7点开启，下午6：45关闭。进入后路的两侧都是停车位，尽头处也有一个停车场，不过通常情况车位都是满的，特别是在周末和节假日。小道的沿途缺乏树荫，比较干燥炎热，记得做好防晒措施，带上充足的饮用水以及最好穿运动鞋。需要注意沿途及山顶都没有厕所。
+
+©️夏威夷导游摄影师Youli赵 微信：HiHonolulu"
+U008,D002,5,Makapuu Lookout位于欧胡岛最东端的Kalanianaole Hwy路旁，这里绝对是夏威夷最美的一个路边观景。因此您在游览欧胡岛的东南海岸时，一定不能错过这里绝美的风景。不远处的海滩公园和岛屿，随着阳光而不断变化的海水颜色，美轮美奂的海岸线。在这里您能够深刻体会到的不是风景如画，而是画不如风景。观景台旁边还有一些残留的暗堡，暗堡里的窗口都对着不远处的海滩，它们都是太平洋战争时期的产物，以防止日军在海滩上登陆！海里有两个无人岛屿，大的个叫兔子岛，因为岛的外形像兔子的头。话说想念极了成都的兔儿脑壳。在19世纪末，岛上也确实引进过兔子，不过兔子对岛上生态环境破坏很大，后来就将之扑灭了。兔子岛也是欧胡岛几座比较晚期的死火山之一。岛上现在是一个海鸟保护区，生活了十多万只海鸟和许多僧海豹。没有夏威夷州土地与自然资源部的许可，不允许私自登岛。©️夏威夷导游摄影师Youli赵 微信：HiHonolulu
+U008,D003,5,"(Translated by Google) It is currently a very popular hiking trail! Koko Head is located in the eastern part of Honolulu, Oahu, Hawaii, next to the famous snorkeling resort Hanauma Bay Nature Preserve. They are two extinct craters, but the former is higher than the latter. The latter has been covered by sea water to form a bay. In the Koko Head District Park, an abandoned railway track leads to the top of Koko Head, which was built during the Second World War for military personnel and facilities transported to the top of the mountain. There are 1,048 sleepers. . However, it has become a popular destination for locals and tourists on foot. Some people can reach the top of the mountain in 20 or 30 minutes, while others will take more than an hour or even give up. The reason is that the railway is straight up and down. It is mainly divided into two parts. The first half is relatively flat, and many people are still acceptable. The second half of the slope makes many people fearful, and I am full of the momentum of my heaven. At the junction of the first half and the second half, there are tens of meters of aerial railways, and the lower is a gully of three or four meters deep. Many people dare not pass the upper side and can only bypass the small road next to the road. After arriving at the top of the mountain, there are many military facilities such as the abandoned Bunker Observatory, where you can enjoy 360-degree views of the eastern part of Honolulu. Beautiful scenery such as Makapuu Point, Hanauma Bay Nature Preserve, Sandy Beach, and Hawaii Kai are all in sight, and you can see the distance. Diamond Head and Waikiki. At the top of the mountain, you need to pay attention to safety at the same time, try to stay away from the cliffs, and sometimes blow a lot of wind. When I first came to this place, I was not greedy, but when I was gradual, too many brawny were tired on this railway. Both the upper and lower mountains need to pay attention to the sleepers on the railway to avoid being mixed. In addition to this abandoned railway, there are a few wild roads, but it is not recommended. Safety first, do what you can! By Youli Zhao
+
+(Original)
+目前是一条非常热门的徒步爬山路线！科科角（Koko Head)位于夏威夷欧胡岛檀香山东部，紧邻著名的浮潜胜地恐龙湾自然保护区（Hanauma Bay Nature Preserve），它们同是两个死火山口，只是前者比后者海拔要高，后者已被海水覆盖形成了一个海湾。在科科角地区公园（Koko Head District Park）有一条废弃的铁路轨道通向科科角（Koko Head)山顶，这是二战时期为山顶的军事人员和设施运输物资所建的，共有1048条枕木。不过这里现在已经成为了当地人和游客徒步健身登高望远的胜地，有的人二三十分钟便可到达山顶，有的则需要一个多小时甚至中途放弃返回。原因是这条铁道直上直下，主要分成了两部分，前半段相对平缓，很多人都还可以接受，后半段坡度则令很多人生畏，大有我天朝华山的气势。前半段和后半段的结合处，还有几十米的空中铁道，下方是三四米深的沟壑，很多人不敢从上边经过，只能绕道旁边的小路。到达山顶后，有许多废弃的碉堡瞭望台等军事设施，在这里你就可以360度的尽情檀香山东部的美景了。玛卡普吾点（Makapuu Point）、恐龙湾自然保护区（Hanauma Bay Nature Preserve）、桑迪海滩（Sandy Beach）、夏威夷凯（Hawaii Kai )等绝世美景尽在眼前，还可看到远处的钻石山（Diamond Head）和威基基（Waikiki )等。在山顶欣赏美景的同时需要时刻注意安全，尽量远离悬崖，有时会吹很大的风。初次到此徒步切莫贪功冒进，当循序渐进，太多壮汉累趴在这条铁道上。上下山都需要注意铁道上的枕木，避免被拌倒。除了这条废弃的铁道，另外还有几条野路上山，但是不建议你尝试。安全第一，量力而行！by Youli Zhao"
+U008,D004,5,Koko Crater Botanical Garden位于干旱的科科火山口内，主要是各类仙人掌、棕榈树、鸡蛋花树、三角梅，以及其它一些夏威夷、非洲大陆和马达加斯加的濒危植物。成片的鸡蛋花树以及三角梅开花的时候非常的漂亮，对仙人掌多人植物感兴趣的不容错过这个植物园。植物园不收门票，入口在Kokonani St的尽头处右侧，门口有停车位以及一个看门儿的大爷。营业时间是日出到日落，圣诞节和新年会关闭。需注意植物园内没有厕所，只在入口处有便携式厕所，最近的厕所可以去不远处的Sand beach. 植物园内的道路是未经铺设的土路，建议穿运动鞋及带上饮用水。可以在入口处取一份地图，也可以在网上下载，避免在植物园内迷路，以前方便前往感兴趣的植物区域。植物园全程走下来大约需要1.5至2小时，也可以不用全程走完，三角梅和鸡蛋花树林就在入口处，最受欢迎的仙人掌区单程也只需十多分钟。©️夏威夷导游摄影师Youli赵 微信：HiHonolulu
+U008,D005,4,"(Translated by Google) Coco Marina Center Koko Marina Center
+The Koko Marina Center is located in Hawaii Kai, a high-end residential area in eastern Honolulu. It is a small dock for boats and other boats. Many water sports are also taking a boat from here. There are also many restaurants and shops here. One of them is called Kokonuts. In December 2008, Obama, who has been elected president of the United States, bought a shaved ice here. He can come to the same name as the US president. If the small roundabout starts from Waikiki, you can choose to eat here at noon. Only when you go to Kailua, there is a good place. The feeling of sitting at the dockside is still very good.
+
+(Original)
+科科滨海中心 Koko Marina Center
+科科滨海中心 （Koko Marina Center）位于檀香山东部的高级住宅区夏威夷凯（Hawaii Kai）。是一个给游艇等船只停靠的小码头，很多水上运动也是从这儿坐船出海。这里还有有很多餐厅和商店。其中有一家刨冰店叫Kokonuts,2008年12月，已经当选为美国总统的奥巴马在这里买了一份刨冰，可以来一份美国总统同款哦。小环岛如果从威基基出发的比较晚，中午也可以选择在这里就餐，在往前走就只有到凯卢阿（Kailua)才有不错的地方了。坐在码头边就餐的感觉还是很不错的。"
+U008,D006,5,"(Translated by Google) It is currently a very popular hiking trail! Koko Head is located in the eastern part of Honolulu, Oahu, Hawaii, next to the famous snorkeling resort Hanauma Bay Nature Preserve. They are two extinct craters, but the former is higher than the latter. The latter has been covered by sea water to form a bay. In the Koko Head District Park, an abandoned railway track leads to the top of Koko Head, which was built during the Second World War for military personnel and facilities transported to the top of the mountain. There are 1,048 sleepers. . However, it has become a popular destination for locals and tourists on foot. Some people can reach the top of the mountain in 20 or 30 minutes, while others will take more than an hour or even give up. The reason is that the railway is straight up and down. It is mainly divided into two parts. The first half is relatively flat, and many people are still acceptable. The second half of the slope makes many people fearful, and I am full of the momentum of my heaven. At the junction of the first half and the second half, there are tens of meters of aerial railways, and the lower is a gully of three or four meters deep. Many people dare not pass the upper side and can only bypass the small road next to the road. After arriving at the top of the mountain, there are many military facilities such as the abandoned Bunker Observatory, where you can enjoy 360-degree views of the eastern part of Honolulu. Beautiful scenery such as Makapuu Point, Hanauma Bay Nature Preserve, Sandy Beach, and Hawaii Kai are all in sight, and you can see the distance. Diamond Head and Waikiki. At the top of the mountain, you need to pay attention to safety at the same time, try to stay away from the cliffs, and sometimes blow a lot of wind. When I first came to this place, I was not greedy, but when I was gradual, too many brawny were tired on this railway. Both the upper and lower mountains need to pay attention to the sleepers on the railway to avoid being mixed. In addition to this abandoned railway, there are a few wild roads, but it is not recommended. Safety first, do what you can! By Youli Zhao
+
+(Original)
+目前是一条非常热门的徒步爬山路线！科科角（Koko Head)位于夏威夷欧胡岛檀香山东部，紧邻著名的浮潜胜地恐龙湾自然保护区（Hanauma Bay Nature Preserve），它们同是两个死火山口，只是前者比后者海拔要高，后者已被海水覆盖形成了一个海湾。在科科角地区公园（Koko Head District Park）有一条废弃的铁路轨道通向科科角（Koko Head)山顶，这是二战时期为山顶的军事人员和设施运输物资所建的，共有1048条枕木。不过这里现在已经成为了当地人和游客徒步健身登高望远的胜地，有的人二三十分钟便可到达山顶，有的则需要一个多小时甚至中途放弃返回。原因是这条铁道直上直下，主要分成了两部分，前半段相对平缓，很多人都还可以接受，后半段坡度则令很多人生畏，大有我天朝华山的气势。前半段和后半段的结合处，还有几十米的空中铁道，下方是三四米深的沟壑，很多人不敢从上边经过，只能绕道旁边的小路。到达山顶后，有许多废弃的碉堡瞭望台等军事设施，在这里你就可以360度的尽情檀香山东部的美景了。玛卡普吾点（Makapuu Point）、恐龙湾自然保护区（Hanauma Bay Nature Preserve）、桑迪海滩（Sandy Beach）、夏威夷凯（Hawaii Kai )等绝世美景尽在眼前，还可看到远处的钻石山（Diamond Head）和威基基（Waikiki )等。在山顶欣赏美景的同时需要时刻注意安全，尽量远离悬崖，有时会吹很大的风。初次到此徒步切莫贪功冒进，当循序渐进，太多壮汉累趴在这条铁道上。上下山都需要注意铁道上的枕木，避免被拌倒。除了这条废弃的铁道，另外还有几条野路上山，但是不建议你尝试。安全第一，量力而行！by Youli Zhao"
+U008,D009,5,"(Translated by Google) One of the most worthwhile places to visit in Hawaii is a very beautiful hiking trail. It is worth visiting. But you need to pay attention to safety. The slopes are all steep. When taking pictures, don’t be too close to the steep slope of the first half of the cliff. The sediment should be slippery. December 2011 President Obama also brought his family to hike here [Personal WeChat: HiHonolulu]
+
+(Original)
+夏威夷最值得造访的地方之一 非常漂亮的一条徒步爬山路线 值得前往 不过需注意安全 一路上都的坡都比较陡 拍照时不要太靠近悬崖 前半段的陡坡是泥沙路面 需注意防滑 2011年12月 总统奥巴马也有带家人到此徒步爬山【个人微信：HiHonolulu】"
+U008,D010,5,"(Translated by Google) Kailua Beach Park is also a very long beach, about 4 kilometers long! The waves here are small all year round, suitable for swimming, and the sand is very good, white and delicate. There is a small island called Popoia Island nearby, which can be landed by kayak. The beach park is equipped with parking lots, lifeguards, toilets, and shower facilities, as well as a special estuary landscape. The river flows to the sea sometimes is not connected to the sea and is blocked by the beach, thus forming a visual inflow river. The beach park has many woods and is a great picnic spot! The Kailua community is the largest town on the Windward Coast of Oahu. It has beautiful beaches and various seaside luxury homes. Former President Barack Obama returns to Hawaii every Christmas to live on this beach. villa. In addition to water sports such as kayaking and windsurfing, many Japanese tourists will go cycling in Kailua. There are various supermarkets, restaurants and many other shops near Kailua Town Center. But the influx of tourists brought a lot of annoyance and disgust to the local residents! by Youli Zhao
+
+(Original)
+凯卢阿海滩公园（Kailua Beach Park）也是一个非常长的海滩，约有4公里长！这里全年海浪较小，适合下水游泳，沙质也非常好，洁白细腻。近处有一个小岛叫Popoia Island，可以划皮划艇登陆。海滩公园配备了停车场、救生员、厕所及淋浴设施，还有一道特殊的河口景观，河流流到海边有时却未与大海相连，被沙滩阻隔，从而形成了视觉上的内流河。海滩公园有许多树林，是不错的野餐地点！凯卢阿（Kailua）社区是欧胡岛向风海岸（Windward Coast)最大的一个城镇，这里拥有着漂亮的海滩、各种海边豪宅，前总统奥巴马每年圣诞节回夏威夷也是住在这边的海边别墅。除了皮划艇、风帆冲浪等水上运动，很多日本游客会在这边骑自行车游也是凯卢阿（Kailua)。凯卢阿小镇中心（Kailua Town Center）附近拥有各种超市、餐厅及其它诸多的商店。但是大量的游客涌入，却给当地居民带了不少烦恼及反感！by Youli Zhao"
+U008,D011,4,"(Translated by Google) Tropical Farms is adjacent to the famous Kualoa Ranch and the Chinese Mangoli Island. Although it is a customary shop, but in the coffee beans and Hawaiian volcanic fruit, you are at the doorstep. You can enjoy them. The goods sold in the store are all produced on the island. You can enjoy coffee and various flavors of volcanic fruit for free in the store before deciding whether to buy them or not. In August 2008, Obama and his family, who were still senators, also visited here. In November of the same year, he was successfully elected as the new US president.
+
+(Original)
+热带农场（Tropical Farms）毗邻著名的古兰尼牧场(Kualoa Ranch)和中国人帽子岛（Mokolii），虽是一俗套的购物店，但在咖啡豆和夏威夷火山果成在季节，你在店门口便可欣赏到它们。购物店里出售的商品都是岛上出产的，你可以在店里先免费品尝咖啡和各种味道的火山果，再决定买不买它们。2008年8月，当时还是参议员的奥巴马和家人也到访了这里，同年11月他成功的当选成为了新一届的美国总统。"
+U008,D012,4,"(Translated by Google) The Kualoa Regional Park is only a short distance from the Kualoa Ranch. The famous Mokoli Island/Mokolii is also not far from the sea. There are a lot of lawns in the park. In addition to wandering a lot of seabirds, it is also a good place for a picnic. You can also apply for permission to camp here. The park provides toilets, showers and more. Mokolii is known as the Chineseman's Hat because of its long-term Chinese immigrant hat. Many tourists love to take photos here and let the island be worn like a hat. Mokolii is a popular spot for kayak landings. There are also locals wading at low tide, and you need to pay attention to protecting the island's weak ecological environment.
+
+(Original)
+古兰尼地区公园（Kualoa Regional Park）与古兰尼牧场(Kualoa Ranch)只有一路之隔，著名的莫科利岛/中国人帽子岛（Mokolii）也在海里的不远处。公园里有很大的草坪，除了游荡着很多海鸟，也是个野餐的好地方，还可以提前申请获得许可在这里露营。公园提供厕所、淋浴设施等。莫科利岛（Mokolii）因为形貌长得像长期中国移民戴的帽子故名中国人帽子岛（Chinaman's Hat），很多游客爱在这里取角度拍照让岛像一个帽子一样戴在头上。莫科利岛（Mokolii）是皮划艇登陆的热门地，在退潮时还有当地人涉水前往，需要注意保护岛薄弱的生态环境。"
+U008,D013,4,"(Translated by Google) Gurney Ranch Horse Riding Tour has 1 hour trip and 2 hours trip! Participants must be 10 years of age or older, must be over 140 cm tall, and weigh less than 105 kg. For safety, wear non-toe shoes. During the riding process, oversized backpacks and cameras cannot be carried on horseback and can be stored in the locker area.
+1 hour trip
+Horses will take you into the southern valley of Gullani. On the way you will see the famous Mokoli’i Island (also known as ""Straw Hat Island"") and the 800-year-old ancient Hawaiian fish pond. Before departure, you will be asked to watch a short video of safety precautions (Chinese videos can be requested). In order not to delay your trip, please arrive at the meeting point 15 minutes before departure.
+2 hour trip
+You will enter the Ka’a’awa valley north of Gurnee. This valley is the location for many Hollywood films, including Jurassic World and Pearl Harbor. Along the way, you will also see bomb shelters left over from World War II, the most primitive Hawaiian jungle and the magnificent Pacific Ocean. Before departure, you will be asked to watch a short video of safety precautions (Chinese videos can be requested). In order not to delay your trip, please arrive at the meeting point 15 minutes before departure.
+
+(Original)
+古兰尼牧场骑马的Tour有1个小时行程和2个小时的行程！参与者必须10岁或以上，身高必须超过140厘米，体重在105公斤以下。为了安全，需穿着不露脚趾的鞋子。骑马的过程中，过大的背包以及相机是不可以带上马背的，可以寄存在储物柜区。
+1小时行程
+马匹会带着您走进古兰尼的南部山谷。途中您将会看到著名的Mokoli’i岛（又名“草帽岛“），以及已经有800年历史的古代夏威夷鱼塘。在出发前，您会被要求看一段安全注意事项的短片（可以要求中文影片），为了不延误您的行程，请在出发前15分钟到达集合处。
+2小时行程
+您将会进入到古兰尼北边的Ka’a’awa山谷。这个山谷是许多好莱坞影片的拍摄地，包括侏罗纪世界以及珍珠港。沿途中，您还会看到世界第二次大战遗留下来的防空洞，和最原始的夏威夷丛林及壮阔的太平洋。在出发前，您会被要求看一段安全注意事项的短片（可以要求中文影片），为了不延误您的行程，请在出发前15分钟到达集合处。"
+U008,D014,4,"(Translated by Google) I have to say that this is the best shrimp dining car on the North Shore of Oahu! There is also a branch in Haleiwa, which needs to line up long, especially for meals! As long as you see the white body with all kinds of graffiti, and the long queue of diners, then you will find the right place.
+
+(Original)
+不得不说这是欧胡岛北岸生意最好的虾餐车！还有一家分店在Haleiwa，都需要排长队，特别是饭点！只要看到白色的车身加上各种涂鸦，和排长队的食客，那么你便找对地方了。"
+U008,D017,4,"(Translated by Google) Laniakea Beach is located on the North Shore of Oahu. The most attractive place is the inhabited green tortoises, which often lie on the beach and sleep in the sun. These green turtles migrated from the French Frigate Shoals in the northwestern Hawaiian Islands. They are endangered and protected animals. Volunteers will be waiting for them at the scene, and some explanations and publicity will be provided to tourists. Free Chinese is also available. Resources introduce green turtles. When the green turtles play enough in the sea, they will slowly climb to the beach to sleep, so don't disturb them. Some tourists will also snorkel in this small bay, but they need to pay special attention to safety. There are more rocks in the sea, so please don't tease the green turtles in the sea. It is important to note that the roadside of the green turtle and the beach where the tourists usually gather is no parking, because there is a bus stop, and the police are careful to drive a fine or a trailer.
+
+(Original)
+拉尼阿凯亚海滩(Laniakea Beach)位于欧胡岛北岸（North Shore),这里最吸引人的地方是栖息了许多绿蠵龟，它们经常会一动不动的躺在沙滩上睡觉晒太阳。这些绿蠵龟都是从夏威夷群岛西北部的French Frigate Shoals迁徙而来，是濒临灭绝的保护动物，现场也会有志愿者守候着它们，并向游客做一些讲解和宣传，现场还提供免费中文资源介绍绿蠵龟。当绿蠵龟在海里玩儿够了，它们便会缓缓的爬到沙滩上来睡大觉，所以千万不要惊扰它们。也会有些游客在这片小海湾浮潜，但需要特别注意安全，海里乱石比较多，也请不要挑逗海里的绿蠵龟。需要特别注意，绿蠵龟和游客通常聚集的那片沙滩的路边是禁止停车的，因为这里有个公交车站，小心警察开罚款或拖车。"
+U008,D018,4,"(Translated by Google) Sharks Cove is located on the North Shore of Oahu. It is a great snorkeling spot every summer. Too many people say they don't see anything in the snorkeling of the Hanauma Bay Nature Preserve. And here is a feast for the eyes. Sharks Cove forms the Pupukea Beach Park with the adjacent Old Quarry and Three Tables. White Tipped Reef Shark is sometimes seen here, so you don't have to worry about snorkeling here, because they generally don't actively attack humans. If you see them by snorkeling, you are lucky. It is also a marine sanctuary, with a wealth of fish in the sea, as well as seals and turtles. In addition to the best snorkeling equipment, you need a pair of shoes, because the sea is full of reefs, you need to pay attention to safety. There are some very deep caves in the sea, if you are just a diving rookie, don't enter. There are public toilets and showers on the shore, and parking spaces are sometimes tense.
+
+(Original)
+鲨鱼湾（Sharks Cove）位于欧胡岛北岸（North Shore)，每年的夏季这里都是绝佳的浮潜胜地，太多人表示在恐龙湾（Hanauma Bay Nature Preserve）浮潜啥东西都没有看到，而在这里则大饱眼福。鲨鱼湾（Sharks Cove）与相邻的老采石场（Old Quarry）和三桌海礁（Three Tables)组成了普普凯阿海滩公园（Pupukea Beach Park）。这里有时会出现白顶礁鲨（White Tipped Reef Shark),在这里浮潜你也不用担心，因为它们一般不会主动攻击人类，如果浮潜看到它们说明你运气不错。这里也是一个海洋生物保护区，海里的鱼类非常丰富，还有僧海豹和海龟。到这里浮潜除了最好带上浮潜装备外，还需要一双鞋子，因为海里全是礁石，需要注意安全。海里还有一些非常深的洞穴，如果你只是潜水菜鸟，切莫进入。岸边有公共厕所及淋浴设施，停车位有时会比较紧张。"
+U008,D019,4,"(Translated by Google) The Banzai Pipeline is located on the North Shore of Oahu. There is also a name called Ehukai Beach Park. It's just that Banzai Pipeline is too famous, so everyone only remembers it. The giant wave of the tube is a description of the huge wave here in winter. The long live pipeline is the literal translation of the Banzai Pipeline. Every winter, this place is known as the most perfect surfing place in the world. It has the most ferocious and biggest waves in the world. Of course, it is also the most dangerous. Many professional surfers and photographers on the beach are buried here. But it still attracts the world's best surfers to show their talents, and the world's most famous surfing competitions will also be held here. Due to the special geological structure at the bottom of the Banzai Pipeline, giant waves will form a tube here, and surfers will rush into these tube-shaped giant waves. If you travel to Hawaii in winter, you must visit here, but you need to stay on the beach honestly and be alert to sudden waves. In summer, it will look calmer, and the area of ​​the beach will become larger. There are public toilets and shower facilities, and parking spaces are sometimes tense.
+
+(Original)
+筒状巨浪（Banzai Pipeline）位于欧胡岛北岸(North Shore),这里还有个名字叫伊胡凯海滩公园（Ehukai Beach Park)。只是Banzai Pipeline太出名，所以大家都只记住它了。筒装巨浪是对这里冬季巨浪的形容，万岁管道才是Banzai Pipeline的直译。每年的冬季这里被誉为世界上最完美的冲浪地点，有着世界上来势最凶猛以及最大的巨浪，当然这里也是最危险的，许多专业的冲浪者和沙滩上的摄影师葬身这里。但它还是吸引着全世界最优秀的冲浪者前来大展身手，全球各种最知名的冲浪比赛也会在这里举行。 由于Banzai Pipeline海底特殊的地质构造，巨浪在这里会形成筒状，冲浪者会冲进这些筒状巨浪里。冬季到夏威夷旅游一定到造访这里，但需老老实实呆在沙滩上并时刻警惕突如其来的巨浪。夏天这里会显得比较平静，沙滩的面积也会变大。有公共厕所及淋浴设施，停车位有时会比较紧张。"
+U008,D020,4,"(Translated by Google) Located on the North Shore of Oahu, Sunset Beach connects to other beaches such as the Banzai Pipeline and forms a long beach. Like other beaches on the North Shore, the scenery here is different in different seasons. In the winter, the waves are a paradise for professional surfers; in summer, it will be calmer, and the beach area will be larger due to the erosion of no big waves. It’s good to watch the surfers’ performances in the winter, and it’s very dangerous to take a trip. Although the sea here is calmer in summer, it is also necessary to be extra careful and dark and sudden. Sunset Beach, watching sunset here is certainly a good choice.
+
+(Original)
+日落海滩（Sunset Beach）位于欧胡岛北岸（North Shore),与筒状巨浪（Banzai Pipeline）等其它海滩相连，形成了长长的海滩。与北岸的其它海滩一样，不同的季节这里的风景也是不同的。冬天这里惊涛巨浪，是专业冲浪者的天堂；夏天这里则会比较平静，沙滩面积也会因没有大浪的侵蚀而变大。冬天到这里欣赏冲浪者的表演就好，万不可下水游玩，惊涛拍岸，非常危险。夏天这里的海面虽显得比较平静，但也要额外小心暗涌及突如其来的大浪。日落海滩，在这里看日落当然也是一个不错的选择。"
+U008,D021,4,"(Translated by Google) Dole Plantation is located in Wahiawa, in the middle of Oahu. It is a representative of the former store and the farmhouse. I think a lot of people should still know the company Dole. We should be familiar with the juices and fruits that we sell. Founded in Hawaii in 1851, Dole is now one of the world's largest and best-quality multinational groups for the production and sale of fresh fruits and vegetables. Pineapple's economic history in Hawaii has a strong color, and pineapples still have an impact on the Hawaiian economy. In addition to taking a small train into the plantation to visit pineapples and other crops, there is also a large shopping mall selling a variety of pineapple-related goods. If you are not afraid of sour, the pineapple ice cream in the store can be worth a try. Next to it is one of the largest labyrinths in the world, about 2.5 kilometers long, made up of more than 14,000 plants. There is also a small piece of pineapple next to the shopping mall, and a variety of colorful pineapples are planted for visitors to enjoy. Also don't miss the koi in the pond and the beautiful rainbow banyan tree next to it. Don't miss the Dole Plantation with your child-friendly tour. I think kids will love it. Adults are also in a position to rise, pineapple is not growing in the tree.
+
+(Original)
+多乐种植园（Dole Plantation）位于欧胡岛中部的瓦希阿瓦（Wahiawa),算是前店后厂和农家乐的代表😄。我想很多人应该还是知道多乐（Dole）这家公司，它家出售的果汁、水果我们都应该比较熟悉。多乐（Dole）公司1851年成立于夏威夷，现在已经是世界上最大的、品质最好的新鲜水果、蔬菜的生产、销售跨国集团之一。菠萝在夏威夷的经济史有浓墨重彩的一笔，时至今日菠萝对夏威夷的经济还是有影响力。这里除了可以坐小火车进入种植园参观菠萝和其它农作物外，还有很大一间购物店，出售各种与菠萝相关的商品，琳琅满目。如果你不怕酸的话，店里的菠萝冰淇淋可以值得尝一下。旁边还有一个世界上最大的迷宫，有约2.5公里长，由14000多颗植物构成。购物店旁边也有一小片菠萝地，种植了五颜六色各种品种的菠萝供游客欣赏。还有别错过了池塘里的锦鲤和旁边漂亮的彩虹桉树。带孩子亲子游的千万不要错过了多乐种植园，我想小朋友们一定会喜欢这里的。大人也顺便涨涨姿势吧，菠萝可不是长在树上的。"
+U008,D023,4,"(Translated by Google) I have to say that this is the best shrimp dining car on the North Shore of Oahu! There is also a branch in Kahuku, which needs to line up long, especially for meals! As long as you see the white body with all kinds of graffiti, and the long queue of diners, then you will find the right place.
+
+(Original)
+不得不说这是欧胡岛北岸生意最好的虾餐车！还有一家分店在Kahuku，都需要排长队，特别是饭点！只要看到白色的车身加上各种涂鸦，和排长队的食客，那么你便找对地方了。"
+U008,D025,4,"(Translated by Google) Tickets $3/adult, $1/child
+The Byodo-In Temple is a Japanese-style Buddhist temple set against the Valley of the Temples Memorial Park at the foot of the Koulau Range on the Windward Coast. In the lush valley, it looks extraordinarily beautiful. Built in 1968, the temple was built in the same way as an ancient temple in Kyoto, Japan, to commemorate the 100th anniversary of Japanese immigrants to Hawaii. In August 2008, Obama, who was still a senator, visited the place with two daughters. Listening to the bells in the temple, watching the courtyard of the bridge, I have to sigh, or let our ancient Chinese things look good! Many people of different faiths were buried in the Valley of the Temple. In addition to seeing Western and Japanese cemeteries, the famous Chinese historical figures Zhang Xueliang and Zhao Yizhen were also buried here. The place where the dead lived was beautiful than the place where the living lived. Chinese tourists coming here will visit here. In the end, is it the national heroic patriotic general or the sinner of the ages, who is clear?
+
+(Original)
+门票$3美元/成人，$1美元/儿童
+平等院（The Byodo-In Temple）位于欧胡岛向风海岸（Windward Coast）柯劳山脉（Koolau Range） 脚下的神庙谷（Valley of the Temples Memorial Park），是一座日本式的佛教寺庙，映衬在郁郁葱葱的山谷里，显得格外漂亮。该寺建于1968年，仿日本京都一古寺而建，用以纪念日本人移民夏威夷一百周年。2008年8月，当时还是参议员的奥巴马带着两个女儿参观了这里。听着寺庙里荡漾的钟声，看着小桥流水的庭院，不得不感叹，还是咱们中国古代的东西耐看啊！神庙谷里安葬了许多不同信仰的人，除了看到西式和日式的墓地，中国著名的历史人物张学良与赵一荻也一同合葬在此。死人住的地方风景比活人住的地方还漂亮。来此的中国游客，都会到此拜访一番。其到底是民族功臣爱国将领还是千古罪人，谁说得清楚？"
+U008,D026,5,"(Translated by Google) The largest tropical botanical garden in the United States
+
+(Original)
+全美国最大的热带植物园"
+U008,D028,4,"(Translated by Google) A nice beach park. All kinds of Japanese people who make wedding dresses are very close to Ala Moana Shopping Center.
+
+(Original)
+还不错的一个海滩公园 全是各种拍婚纱的日本人 离Ala Moana购物中心很近"
+U008,D031,5,"(Translated by Google) Arizona Battleship Memorial This is a memorial built on the wreckage of the Arizona battleship that was blown up in Hong Kong on December 7, 1941, when Japan attacked Pearl Harbor. The remains of the warship and the remains of the officers and soldiers still linger. At the bottom of the sea! Tickets for the Arizona Battleship Memorial are free of charge, but you need to arrive at the ticket counter at the Pearl Harbor Visitor Center as early as possible to receive free tickets. All visitors are required to be on the scene! It’s okay at ordinary times, but it’s almost impossible to get a ticket when it’s late on holidays. The Pearl Harbor Visitor Center offers free parking, but parking on the holidays is tight! It is forbidden to carry bags in Pearl Harbor, so please hide them in the car in advance, or go to the storage at the right side of the gate! The camera can be brought into Pearl Harbor, allowing you to take pictures wherever you go without problems! Before entering the gate, there will be staff to check whether there is a carrying bag. There are three service desks in front of the entrance door. The middle one is free to receive tickets for the Arizona Battleship Memorial Hall (by the time on the ticket to watch the 23-minute documentary. Then take the barge to the Arizona Battleship Memorial. The right desk is for tickets to the Missouri Battleship Memorial, the Pacific Aviation Museum and the Puffin Submarine Museum. You can purchase a package or purchase tickets separately, as appropriate! The left counter is a rental audio guide, available in Chinese for $7.5/person. It is highly recommended to rent a visitor center and the Arizona Battleship Memorial! If the time is on the ticket to the Arizona Battleship Memorial, it is the best time to visit the Pearl Harbor Visitor Center and the Puffin Submarine Museum in depth! In addition, there is no toilet on the Arizona Battleship Memorial, so please go to the Visitor Center for a good toilet before entering the 23-minute documentary! Remember to mute your phone for the whole process, and you are forbidden to play! Visiting the Arizona Memorial from the beginning of the documentary to the end of the journey, it took almost 75 minutes! Visiting the Arizona Memorial may not have tickets except late. Sometimes there may be some special circumstances. After watching the 23-minute documentary, the shuttle boat to the Arizona Memorial will stop because of the stormy waves in Pearl Harbor or other special reasons. ! At this time, a deep visit to the Pearl Harbor Visitor Center, the Puffin Submarine Museum, the Missouri Battleship Memorial or the Pacific Aviation Museum is the best choice. These venues will be described in detail! By Youli Zhao
+
+(Original)
+亚利桑那号战列舰纪念馆   这是在1941年12月7日，日本偷袭珍珠港时所炸沉在港内的亚利桑那号战列舰残骸的上方建立的一个纪念馆，至今这艘军舰的残骸和舰上官兵的遗体仍长眠于海底！亚利桑那号战舰纪念馆免门票费，但每天需尽早到达珍珠港游客中心的票务柜台排队领取免费门票，领门票时需所有参观者都在现场！平时还好，但节假日时要来晚了就几乎领不到票了。珍珠港游客中心提供免费的停车场，但在节假日停车位比较紧张！珍珠港内禁止携带包袋进入，所以请提前在车内藏好，或去大门口右边的寄存处寄存！相机可以带入珍珠港内，允许你能去到的地方拍照也没有问题！进入大门前，会有工作人员检查有无携带包袋，进入大门后正前方有三个服务台，中间那个是免费领取亚利桑那号战舰纪念馆门票的（凭票上的时间去观看23分钟的纪录片，再坐接驳船去亚利桑那号战舰纪念馆），右边个服务台是购买密苏里号战舰纪念馆、太平洋航空博物馆及波芬号潜艇博物馆门票的，可以购买套票或酌情单独购买门票！左边个柜台是出租语音导览器的，有提供中文，费用是$7.5/人。参观游客中心及亚利桑那号战舰纪念馆的强烈推荐租一个！若亚利桑那号战舰纪念馆门票上的时间尚早，是深度参观珍珠港游客中心和波芬号潜艇博物馆的最佳时机！另外亚利桑那号战舰纪念馆上无厕所，所以请在进入观看23分钟的纪录片前先在游客中心上好厕所！全程记得将手机关静音，禁止喧哗嬉戏！参观亚利桑那号纪念馆从开始观看纪录片到全程结束，差不多用时75分钟！参观亚利桑那号纪念馆除了来晚了可能没有门票了，有时可能出现一些特殊情况，在看完23分钟纪录片后，因为珍珠港内风浪比较大或者其它特殊原因，前往亚利桑那号纪念馆的接驳船会停驶！ 这时深度参观珍珠港游客中心、波芬号潜艇博物馆、密苏里号战舰纪念馆或太平洋航空博物馆是最佳选择，这些场馆另行详细介绍！ by Youli Zhao"
+U008,D032,5,"(Translated by Google) If you are interested in military and history, especially the Pacific War, then this is the place you must visit in your Hawaiian journey! By the way, recommend an old movie ""Pearl Harbor""! In addition to the visitor center, Pearl Harbor has four main pavilions worth visiting: 1. Arizona Battleship Memorial; 2. Missouri Battleship Memorial; 3. Puffing Submarine Museum; 3. Pacific Aviation Museum! The four pavilions will be introduced in detail separately. Here we will introduce the Pearl Harbor Visitor Center! The Pearl Harbor Visitor Center offers free parking, but parking on the holidays is tight! It is forbidden to carry bags in Pearl Harbor, so please hide them in the car in advance, or go to the storage at the right side of the gate! The camera can be brought into Pearl Harbor, allowing you to take pictures wherever you go without problems! Before entering the gate, there will be staff to check whether there is a carrying bag. There are three service desks in front of the entrance door. The middle one is free to receive tickets for the Arizona Battleship Memorial Hall (by the time on the ticket to watch the 23-minute documentary. Then take the barge to the Arizona Battleship Memorial. The right desk is for tickets to the Missouri Battleship Memorial, the Pacific Aviation Museum and the Puffin Submarine Museum. You can purchase a package or purchase tickets separately, as appropriate! The left counter is a rental audio guide, available in Chinese for $7.5/person. Visit the Visitor Center and the Arizona Warship Memorial for a recommended rent! The Pearl Harbor Visitor Center is worth visiting: the War Beginning Museum and the Air Attack Museum. Others include the Tree of Life, the Arizona Bell, the Contemplative Garden, the Memories Garden, and the Arizona Anchor! You can use the Chinese audio guide to learn more about the story behind them! There is a toilet on the left and right sides of the entrance to the Visitor Center. There is also a souvenir shop and a canteen on the left! Go to the right and go to the Buffalo Submarine Museum and there are some hot foods! There are a lot of things to visit in Pearl Harbor, which can be chosen according to your interest and time! If the time is on the ticket to the Arizona Battleship Memorial, it is the best time to visit the Pearl Harbor Visitor Center and the Puffin Submarine Museum in depth! By Youli Zhao
+
+(Original)
+如果你对军事以及历史感兴趣的话，特别是太平洋战争，那么这里将是你夏威夷旅程里必须造访的地方！顺便推荐一部老电影《珍珠港》！珍珠港除了游客中心外，还有4个主要的馆值得参观：1、亚利桑那号战舰纪念馆；2、密苏里号战列舰纪念馆；3、波芬号潜艇博物馆；3、太平洋航空博物馆！该4个馆另行详细介绍，这里主要介绍一下珍珠港游客中心！珍珠港游客中心提供免费的停车场，但在节假日停车位比较紧张！珍珠港内禁止携带包袋进入，所以请提前在车内藏好，或去大门口右边的寄存处寄存！相机可以带入珍珠港内，允许你能去到的地方拍照也没有问题！进入大门前，会有工作人员检查有无携带包袋，进入大门后正前方有三个服务台，中间那个是免费领取亚利桑那号战舰纪念馆门票的（凭票上的时间去观看23分钟的纪录片，再坐接驳船去亚利桑那号战舰纪念馆），右边个服务台是购买密苏里号战舰纪念馆、太平洋航空博物馆及波芬号潜艇博物馆门票的，可以购买套票或酌情单独购买门票！左边个柜台是出租语音导览器的，有提供中文，费用是$7.5/人。参观游客中心及亚利桑那号战舰纪念馆的推荐租一个！珍珠港游客中心主要值得参观的有：战争开端博物馆及空袭博物馆，其它还有生命之树、亚利桑那号之钟、沉思园、回忆园、亚利桑那号之锚等！都可以使用那个中文语音导览器详细了解它们背后的故事！游客中心大门左右侧各有一个厕所，左侧还有一个纪念品店及小卖部！往右侧走到波芬号潜艇博物馆那边还有一些卖热食的！ 珍珠港值得参观的东西很多，可根据你的感兴趣及时间酌情选择！若亚利桑那号战舰纪念馆门票上的时间尚早，是深度参观珍珠港游客中心和波芬号潜艇博物馆的最佳时机！by Youli Zhao"
+U008,D035,4,"(Translated by Google) It is suitable for taking children. It is also very close to the beach. President Barack Obama has brought family members in 2008, 2009, 2010, 2014 and January 2016. It seems that the Honolulu Zoo is very popular among the first family.
+
+(Original)
+适合带小朋友来 离海滩也非常近 美国总统奥巴马在2008年、2009年、2010年、2014年和2016年的一月份都有带家人到此 看来檀香山动物园深受第一家庭的喜爱😄"
+U008,D037,4,"(Translated by Google) The long and narrow beaches under the cliff are Diamond Head Beach Park, Kuilei Cliffs Beach Park and Cromwell's Beach from right to left. Due to the rocks and waves in the sea, it is not suitable for swimming in the water. Tourists rarely visit this beach, but it is Surfers' paradise. As the beach is relatively long and narrow, there are three entrances. First of all, you can walk to the beach under the cliff through the trail of the first viewing platform. There is a shower facility at the entrance of the trail beside the road. It should be noted that although the three long and narrow beaches under the cliff are called beach parks, they do not have toilets or changing clothes. Room, lifeguard, etc. The shower facility near the beach at the end of the trail is currently in a state of disuse, so the only shower facility in this area is located at the entrance of the trail next to the road. You can also enter Diamond Head Beach Park through the end of Beach Rd. Beach Rd is a short end-of-head road. You can park on the side of the road. However, the road is relatively narrow and needs attention. In addition, you can also enter Cromwell's Beach through the end of Kulamanu Pl, but you cannot park on Kulamanu Pl. You need to stop at Kulamanu Street next to it.
+
+Diamond Head Beach Park is located under the lighthouse and is mainly a rocky beach. You may encounter people who are illegally basking here, or there may be some tramps who set up tents on the cliffs. However, there is a relatively large tidal pool here, which is good for taking pictures in the water. Many Japanese models have taken photos on this beach.
+
+The sand at Kuilei Cliffs Beach Park is green, and it gleams in the sun due to calcite crystals. When British sailors discovered gleaming things on the beach and on the mountain, they mistakenly thought they were diamonds. This is also the source of the name Diamond Head Mountain.
+
+The sand on Cromwell's Beach is white, and the neighboring houses are multi-million or even tens of millions of dollars. Therefore, the homeless people who set up tents on the cliff behind Diamond Head Beach Park do not spend a penny, and the same sea breeze blows every day. , Looking at the same sea view. Haha.
+
+Except for a small area at the Kuilei Cliffs Beach Park trail, this beach lacks shade of woods. You need to pay attention to sun protection, and it is not recommended to swim in this beach.
+
+©️Hawaiian guide photographer Youli Zhao WeChat: HiHonolulu
+
+(Original)
+悬崖下狭长的海滩从右到左分别是Diamond Head Beach Park、Kuilei Cliffs Beach Park、Cromwell's Beach，由于海里礁石以及海浪的缘故，这里并不适合下水游泳，游客比较少造访这片海滩，不过却是冲浪者的天堂。由于海滩比较狭长，一共有三个入口。首先可以通过第一个观景台的步道走到悬崖下的海滩，公路旁步道的入口处有一个淋浴设施，需要注意，悬崖下三个狭长的海滩虽然叫海滩公园，但是并没有厕所、更衣室、救生员等配置。步道尽头海滩旁的淋浴设施目前处于废置状态，所以这个区域唯一的淋浴设施便位于公路旁步道的入口处。也可以通过Beach Rd的尽头进入Diamond Head Beach Park，Beach Rd是一段很短的断头路，路边可以停车，不过道路比较狭窄，需要注意。另外也可以通过Kulamanu Pl的尽头处进入Cromwell's Beach，不过Kulamanu Pl这条路不能停车，需要停在旁边的Kulamanu Street。
+
+Diamond Head Beach Park位于灯塔下，主要是一片礁石滩，可能会遇到在这里非法裸晒的人，也可能有一些把帐篷搭在悬崖上流浪汉。不过这里有一处比较大的潮汐池，在水里拍照挺不错的。不少日本的模特都在这片海滩拍过写真。
+
+Kuilei Cliffs Beach Park的沙子是绿色的，由于方解石晶体的缘故，在阳光的照射下会闪闪发光。当年英国水手发现沙滩上和山上闪闪发光的东西，误以为是钻石，这也是钻石头山名字的来源。
+
+Cromwell's Beach的沙子是白色的，相邻的都是数百万甚至上千万美元的豪宅，所以Diamond Head Beach Park后边悬崖上搭帐篷的流浪汉不花一分钱，每天也吹着同样的海风，看着同样的海景。哈哈。
+
+这一片海滩除了Kuilei Cliffs Beach Park步道处的一小片区域外，缺乏遮阴的树林，需要注意防晒，也不推荐在这片海滩下水游泳。
+
+©️夏威夷导游摄影师Youli赵 微信：HiHonolulu"
+U008,D038,5,"(Translated by Google) Located on the western end of Oahu, Kaena Point is backed by the Waianae range, to the south is the scenic Leeward Coast, and to the north is the famous North Shore. Legend has it that the souls of ancient Hawaiians will enter another world from here and gather with the souls of the lords. In addition to the rich plant resources, the Hawaiian Monk Seal and many species of seabirds live happily here. In the evening, sitting quietly with the people I love, watching the sunset, is a happy thing.
+However, the infinite scenery is far away, and it is not an easy task to reach Kaena Point, because it is not accessible by road and can only be reached on foot. There are two hiking trails here: one is from Kaena Beach State Park on the Leeward Coast in the south and arrives via the Kaena Point Trail for a total length of 2.1 miles. The route is more rugged, close to the sea cliffs, and it is dangerous to climb over several landslides. The other is from the end of the North Shore Farrington Hwy, which is about 2.5 miles long. The road is relatively flat and there is a certain distance from the beach.
+A few days ago, I saw on the map of Hawaii published in Japan in 1943. It turned out that the railway was here. The sugar cane produced by Kahuku on the north bank was transported to Honolulu via this railway. The railway was built in 1899 but was destroyed by the 1946 tsunami. However, the government has not repaired the railways and built roads here. It may be for military purposes. It does not want to let too many people come here. The military is in the vicinity of the Waianae range. base.
+In 2011, the government spent money building a wall at Kaena Po int to protect the flora and fauna that inhabit it. Although many people criticized the wall for destroying the natural beauty here, the number of seabirds that have been inhabited here has increased significantly over the past few years. When playing here, remember not to disturb their comfortable life, otherwise you may violate the laws of the State of Hawaii. Remember to never bring a dog into here, because the dog will attack seals and seabirds, and there will be warning signs at the gates.
+Hiking here requires a pair of comfortable sports and leisure activities, prepared food and plenty of water, and of course, anti-mite measures. If you want to watch the sunset here, remember to bring a good headlight or flashlight, there is still a certain danger in the night, and it is best to choose the north line. In addition, there is no wind and wave. Kaena Point is also a very good snorkeling spot (you can see a lot of beautiful fish in the pond on the shore), but the wind and the terrain along the line are more complicated, it is best not to carry out Water Activities.
+
+(Original)
+Kaena Point位于欧胡岛的最西端，背靠山脉怀厄奈岭(Waianae range)，南面是风景秀丽的利华德海岸（Leeward Coast ），北面则是著名的北海岸（North Shore)。传说中古代夏威夷人的灵魂会从这里进入另外一个世界，与先主的灵魂相聚。这里除了生长着丰富的植物资源，夏威夷僧海豹（Hawaiian Monk Seal）和诸多种类的海鸟也幸福的栖息在这里。傍晚时分，与相爱的人静静地坐在这里，看着夕阳西下，是一件夺多么幸福的事情。
+不过无限风光在远方，到达Kaena Point也非一件易事，因为这里不通公路，只能徒步到达这里。到这里有两条徒步路线：一条是从南面利华德海岸（Leeward Coast ）的Kaena Beach State Park 出发，经过Kaena Point Trail到达这里，全长约2.1英里。该路线道路较为崎岖，紧临海崖，且要翻越几个塌方点，具有一定危险性。另外一条是从北海岸（North Shore)Farrington Hwy的尽头出发，全长约2.5英里，该路线道路较为平坦，离海边也有一定的距离。
+前几日在日本1943年出版的夏威夷地图上看到，原来这里是通铁路的，北岸Kahuku 出产的甘蔗经过这条铁路运到檀香山。铁路建于1899年，却毁于1946年的海啸。不过后来政府再未在此修复铁路和修筑公路，可能处于军事目的的原因，不想让太多的人到这里来，紧靠的山脉怀厄奈岭(Waianae range)里边上各种雷达站等军事基地。
+2011年政府花资在Kaena Po int修筑围墙，以保护栖息在这里的动植物。虽然很多人批评围墙破坏了这里的自然美景，不过这几年栖息在这里的各种海鸟数量明显提高。在这里游玩时，切记不可打扰它们惬意的生活，否则您可能违法夏威夷州的法律。切记万万不可带狗进入这里，因为狗会攻击海豹和海鸟，围墙大门处有警示牌。
+到这里徒步远足需要一双舒适的运动休闲，备好食物和充足的水，当然还要做好防嗮措施。如果要在这里看日落，切记记得带好头灯或者手电筒，走夜路还是有一定的危险性，并且最好选择北线进出。另外没有风浪时Kaena Point虽然也是一处非常不错的浮潜胜地（在岸边的水塘里就可以观赏到很多漂亮的鱼类），但是沿线的风浪和地形地貌都比较复杂，最好不要进行水上活动。"
+U008,D039,5,"(Translated by Google) Kaena Point is located at the western end of Oahu, Hawaii, with two trails north and south. The Northern Line departs from the North Shore and the South Line departs from the Leeward Coast. The northern route is about 5 kilometers in one way. The terrain is relatively flat and the dirt road is wide. The one side is the vast Pacific Ocean and the other side is the steep Waianae range. At Kaena Point you will have the opportunity to see Hawaii's protected animals, seals and countless seabirds and the nests they built in the ground. Remember not to bring dogs around to hike, not to be able to feed and feed wild animals. Watching the sunset here is also a good experience.
+
+(Original)
+卡伊娜点（Kaena Point）位于夏威夷欧胡岛最西端，有南北两条小径（Trail)到达这里。北线从北岸（North Shore）出发，南线则从利华德海岸（Leeward Coast）出发。北线单程约5公里，地势较为平坦，泥土路面较为宽阔，一侧为浩瀚的太平洋，另一侧则为陡峭的怀厄奈山脉 (Waianae range) 。在卡伊娜点（Kaena Point）你将有机会见到夏威夷的保护动物僧海豹和无数的海鸟以及他们在地里所筑的巢。切记不可带狗到处徒步，不可接近、喂食野生动物。在此看日落也是一个不错的体验。"
+U008,D040,5,"(Translated by Google) Gully Canyon One of the most distinctive places in Kauai
+
+(Original)
+沟壑纵横的峡谷 可爱岛最具特色的地方之一"
+U009,D001,2,"Short paved walk, don't call it a hike.  Poor parking with a high crime rate.  Two stars for a good view of the coast.  The lighthouse is locked but you can see it."
+U009,D003,5,"Very clean and unique on the island.  Desert palms and cactus, dense trees and a mixture of flowering plants.  Fantastic with a large number of birds.  Wear good shoes and expect uneven ground.  Stated 2 miles goes fast but bring water."
+U009,D008,4,Limited parking and busy at times.  Stunningly beautiful area.
+U009,D009,5,"Park at the beach and walk up.  A bit crowded but nice.  No birds/animals other than dogs.  Short, steep with good views."
+U009,D013,4,"Lunch is a mad house but food quality is very good for a tourist attraction.  We did the ranch tour in a bus, which is a ride down a dirt road.  Very interesting history of the property and a little Hawaiian history.  Beautiful place and there's a good chance you'll see an active movie set."
+U009,D016,4,Good Mexican food!
+U009,D021,4,Take the train.
+U009,D022,4,"Cool to see coffee trees up close.  The coffee is very bitter, consume with caution."
+U009,D026,5,Truly a great park.  The lake is nice and fishing is allowed (limited area).  Lot of wildlife and spectacular views.
+U009,D027,5,The hikes are great.  Be ready for the inclines.
+U009,D029,5,Very good food and very crowded at lunch.
+U009,D030,5,This is a great museum.  Recommend family pass vice one time passes.
+U009,D031,5,Don't leave without going.
+U009,D033,5,"Five for location, price and quality. Captive audience means they could have mediocre food and bad service, but they don’t.  Surprised in a good way and super convenient."
+U009,D034,5,Good beach park with a lot to tourists.  Nice sunsets too.
+U009,D036,5,"Big park with ample parking.  Lot of space and access to the beach, zoo and events."
+U009,D038,5,"Long, hot beautiful walk.  Few beaches with safe access and good places to fish.  Bring a lot of water and the road is not safe past the first few hundred yards."
+U009,D040,5,"Stop at the pull-offs.  A lot of fun he same views without the crowds.  Very cool birds, trees, and views.  Saw a lot of tropic birds half way up.  Go early before the rain rolls in."
+U010,D001,5,"A great day. Limited parking worth the hike. Not up for a hike then just go to the look out landing that is provided. The trail is paved, with stops along the way, binoculars to view whale if in season, the views are amazing.
+Enjoy- friendly hike remember to wear good walking shoes, bring water to drink, and sunscreen. Family friendly, stroller accessible."
+U010,D002,5,"Limited parking worth the stop. Not up for a hike then just go to the look out landing that is provided. Bring binoculars to view whales if in season, the view is amazing. Rabbit island, bay, great view."
+U010,D008,4,"Extremely Long Beach, sandy, incredibly view!!"
+U010,D010,4,"Beach fun, picnic tables, family fun, nice sand great beach."
+U010,D011,5,"Quaint stop, gift shop, Kona coffee, snacks, give it a taste. Flavorful coffee. Family fun cracking macadamia nuts. Chickens running free. Easy parking."
+U010,D012,5,"Large grassy area and beach. China Man’s Hat view and easy access. Large parking lot. Restrooms. Beautiful view of mountains and ocean.
+We enjoyed collecting seashells. Picnic tables and a water fountain."
+U010,D014,5,"Yum!! Definitely try the Scampi if you like garlic, service friendly, they split our order with half scampi and half lemon butter."
+U010,D015,5,"Yum! Worth the drive, fresh baked items, pies, cakes, bread. Also plates - delicious."
+U010,D016,4,Fun day with the family.
+U010,D019,5,One of my favorite beaches to visit on the island.  Talk about waves in January!! Calm in August.  Gorgeous no matter what time of year.  Heavy traffic all the time.
+U010,D020,4,"Nice beach, Volcom World Tour was there, easy parking, great waves, sunset."
+U010,D021,4,"Fun stop on the way to the North Shore. We did the train, dole whip, gift shop, the gardens, and enjoyed our afternoon.  Restrooms are very clean and staff was welcoming."
+U010,D022,5,"Great stop, nice selection of coffees, walk through the coffee plants, buy gifts or coffee to take home with you after you have a free sample, beverage counter, nice grassy play area with picnic tables."
+U010,D026,4,"Nice family day, enjoyed pleasant atmosphere, beautiful landscape, visitors center, art exhibit from local artists, restrooms, staff was extra helpful.
+Camping, picnic area, lake with ducks, fishes, mongoose, wild pigs.
+Open 9am to 4pm
+No cost for entry"
+U010,D028,5,Fun place for a beach spot in the middle of downtown. Nice park- super busy.
+U010,D031,5,"Enjoyed the historical point of interest, historical information, nice facilities, family friendly, easy access, free admission but you can reserve tickets on line for a minimal fee."
+U010,D038,5,"Relaxing family day, basic rest stop, sand, sun, mountains."
+U011,D002,5,What an incredible  view  from the  mountain view  to the ocean  views  and the hiking trails and  sea life  park and  luaus
+U011,D003,5,Awesome  hiking
+U011,D004,5,Nice job
+U011,D005,5,Awesome place to eat and family members
+U011,D007,5,Snorkeling and awesome setups
+U011,D008,5,Awesome place to  have a  concert
+U011,D010,5,Awesome place to  swimming
+U011,D011,5,Awesome place to  shopping
+U011,D012,5,Awesome walk
+U011,D013,5,Nice place to  visit
+U011,D014,5,The  dish  was awesome and  quick service
+U011,D016,5,Aloha  place to shop
+U011,D018,5,Shrimp  truck  was awesome and amazing service  the food was great
+U011,D021,5,Aloha and mahalo
+U011,D026,5,Beautiful place  for a great day
+U011,D027,5,Yes
+U011,D028,5,Awesome place to eat and family members
+U011,D029,5,Awesome place to eat
+U011,D031,5,Historical  lesson
+U011,D033,5,Awesome
+U011,D034,5,Nice  beach
+U011,D036,5,Nice place
+U011,D037,5,Awesome place to  hiking
+U012,D006,5,"A difficult hike, please be prepared with tons of water and try to avoid extreme sun! the views from up there worth every effort."
+U012,D008,4,"Pretty nice beach, minus the homeless people that are taking over the area."
+U012,D009,5,"A great hike for everyone. It is short, and the views are breathtaking!"
+U012,D010,5,"My favorite beach on the East coast, it is great to watch the sunrise also. The sand is white and soft, and waters are so green and clear. I love snorkeling there as well as kayaking or paddle boarding.  I also love to bring my family to barbecue on the beach. It is very pretty, and also popular among tourists. People drive from Waikiki to spend the day here. The beach and ocean waters are nicer here. Just check the weather before heading here. It rains often on this side of the island, and it can get windy too."
+U012,D011,5,"One of my favorite site on east Oahu! if you want to crack open your own fresh macadamia nuts, drink fresh coconut water from a coconut and taste samples of fresh brewed coffee, this is the place for you! You can also take Alii Tour through the farm, learn about Hawaiian culture, and meet some famous actors, if you have a lucky day! I consider this spot a hidden gem on East Oahu that not too many people know about. And I like it this way:)"
+U012,D012,5,"Beautiful park, with plenty of space for  a picnic. I mostly love the view of Chinaman’s Hat Island and the surrounding mountains."
+U012,D013,5,"Amazing place for families, there is so much to do there! My favorite thing to do, was the move set tours! They drive you in a old school bus through all the movies sets for films that were shot there throughout the years. The driver was amazing! We learned so much about Hawaii culture and traditions, as well as history."
+U012,D014,5,"Best garlic shrimp I’ve ever had. I always come here while taking a drive on the North Shore! They close at 5pm, after an early dinner watch the sunset on the North Shore! Beautiful experience!"
+U012,D015,5,"The best bakery on the island. I am not a dessert kind of a person, but their dessert got me hooked! I love love the blueberry cream pie! Simply the best! My husband like strawberry cheesecake, a must try as well!"
+U012,D017,5,"One of favorite beaches, that I like to drive to on a Sunday drive!"
+U012,D019,5,The most beautiful waves I've ever seen! You must check them out in winter season
+U012,D020,5,"Beautiful beach, one of my favorite on the North Shore. Go there for sunset, it is incredible each time we go. Watch the surfers and enjoy a Ted’s Pie. Simply beautiful and unique!"
+U012,D021,5,"Nice family activity while visiting Oahu. Don't miss the pineapple ice-cream which is fantastic! I also too my nephew on the Pineapple Express train, he had a blast! It took us through the tropical farm, with bananas, Mango and Papaya trees, Cocoa and Coffee plantations and gave us a little history about the Polynesians and Hawaiian Culture and history. They also have a great souvenir shop, which tends to be very crowded."
+U012,D022,5,"My Favorite place to stop and get coffee on the way to North Shore! I come here a few times a week! My absolutely favorite! The coffee is so tasty, they always have coffee tasting and their souvenir shop is great. I love getting a Mocha, then take a stroll outside through the coffee farm. I is a small farm or 8 acres, however, the quality of the coffee and the atmosphere is twice as big."
+U012,D023,5,"The shrimps are the best on the island! Must have! Just plan to wait in line, as it is always busy and don’t wait too late! They close at 5pm"
+U012,D024,5,"My absolute favorite place to sunbathe in Hawaii. The lagoons are pristine and water is always perfect to snorkel. This place is so quiet and much nicer than busy Waikiki. I prefer to come here anytime. It's never crowded and beach is very clean and well maintained. I always feel at home and cozy here. You can walk to many restaurants, luxury hotels, and tons of shopping."
+U012,D025,5,We have visited this temple many times now. Amazing experience each time! A place of solitude and quietness that we enjoyed each time!
+U012,D030,5,We have visited Bishop Museum Twice. Highly recommend it as an indoor activity in Oahu. Beautiful building with great history artifacts!
+U012,D032,5,"A must see on Oahu! My husband is Military Aviation and I have to admit we love to come here, pay our respects and visit this landmark historical place! Please don't skip it while visiting Hawaii! It's more to Hawaii than Waikiki! Keep in mind that admission to Arizona Memorial is FREE, and I do not recommend booking a tour guide. They are a rip off, and you will end up paying more than you should. Also, make time for Bowfin Submarine, a favorite of mine after the Memorial."
+U012,D038,5,"A favorite hike on the West side of Oahu! It is a beautiful cliff walk, which will take to the most western point of the Island. The tip of the hike is absolutely stunning; you will encounter many Albatross, and if you are lucky as we were, you will see some monk seals sunbathing as well. I love the fact, that this hike is more wild, non touristy, and you will drive though a more local area. Make sure you have plenty of water and sun screen, and also sturdy shoes."
+U012,D039,5,"Beautiful trail, one of my favorites on the west side of Oahu. We saw many albatross, whales and monk seals along the way. We also stopped and jumped in some of the tide pools by the ocean"
+U012,D040,5,A beautiful site seeing and a hike! A must see while visiting Kauai!
+U013,D001,5,Nice easy hike for any age group. Wide paved all the way up
+U013,D005,4,"Has a little bit of everything. Which is nice, a nice view of the harbor. Has alot of quick bites area, few restaurants that provide table service. Theatre too"
+U013,D006,5,"Great for the cardio. Get there 1 hr before the sunsets or rises
+12/25/2019
+Windy over cast on this Christmas."
+U013,D015,5,"Didnt try the bakery but got the Hawaii bbq chicken and it was amazing. Hard to drive back home across the island with the smell flowing all over the car, had to eat and drive.  Big crowd but the service was still faster then expected.
+Update: came here with the family again but this time they were full from another place coming up. But we got a slice of haupia pie. Tasty moist dessert"
+U013,D017,4,"Everytime I come here.  I never see the turtles on shore, but I told others about it and they saw 3 or more on shore. It's a nice beach. Wavy but no restrooms or food around."
+U013,D018,5,"No beach here but it's a walk away. Bring water shoes for sure.  Sharp rocks all over.  Lots of fish for snorkeling and a small cliff jump.  Food trucks, surf rentals and some souvinour stuff across the street.  Good luck finding parking"
+U013,D021,5,"Nice place to visit just to say you went there. They have alot of things to do here.
+Update: came here again with the family for the non payment adventures. Tried the dole whip this time. Very tasty."
+U013,D023,3,"Parking is hard to find. Tables always full of people eating or hanging out. Food is tasty. It's always nice to be a tourist every once in awhile.
+I wish there was an option where the shrimp comes unpeeled with the garlic sauce on the side
+1/2020 tasted a little bit extra oily then usual. They were already out of Mac salad 30 min after opening."
+U013,D024,5,Best view of the beach. Very nice lagoons and clean.  Good scenery. Parking is a hassle. Wish they had food trucks around. Other then that. Pack a big picnic
+U013,D025,4,Quick walk through to pay your respects. Paid $3 as military. I think its 5 for admission.
+U013,D028,4,"Come here for the picnic and swim lessons. No waves
+Update.  Great place to chill enjoy the sunset
+Great waters to lounge through, swim"
+U013,D029,4,"We came during lunch time and it was a bit crowded.  Everything was great. Food was tasty, food came quick, they dont do table service for lunch it looks like so you get the puck. The only hard part is getting a table. So look for a table that looks like their about to leave."
+U013,D031,5,Best part about this tour was the video and all the statues around the park. Didn't see anything when we looked down the balcony
+U013,D036,5,Come here every morning to train with the bars
+U013,D038,5,Great hike along the shore. Endless scenery.  No cover so bring sunscreen. Very nice stroll. Very leveled path. You can trail run on this hike.
+U014,D001,5,Great  workout
+U014,D002,5,Painters dream
+U014,D003,5,Love going there
+U014,D004,5,Love the plumeria trees
+U014,D005,5,Good restaurants and shopping
+U014,D008,5,Love this beach very local
+U014,D011,5,Great place
+U014,D013,5,Lots of fun
+U014,D014,5,Best shrimp truck on north shore
+U014,D016,4,Love it
+U014,D021,5,Fun place
+U014,D026,5,Beautiful place
+U014,D027,5,My favorite
+U014,D033,5,Love the buffet on friday nights
+U014,D034,5,Beach walk
+U014,D035,4,Very cute zoo
+U014,D036,5,Favorite art park
+U015,D004,4,Can get pretty busy but worthy ..nice photo spot
+U015,D006,5,Steps.. steps ..more glorious Steps... walk it ... pace yourself and you will be rewarded with expansive views of the region... Take heaps of water and snacks... in no way is the easy... you with feel the quads burning at some stage... just take your time and enjoy the views!!!!
+U015,D007,5,Get in early avoid the crowds and park yourself under a little shade and enjoy!!!
+U015,D009,5,Great hike... rewarding with stunning views at the top... A must i believe
+U015,D012,5,Stunning views... nice beach... very touristy
+U015,D013,4,Very expensive.. however photos are stunning
+U015,D017,4,TURTLE BEACH..... turtles everywhere... again please respect there space and for god sake take all your rubbish with you!! Parking and traffic is horrendous.
+U015,D018,5,Sharp rocks...... currents can be a little wild. Heaps of marine life though. Fish will swim around you.
+U015,D021,1,"WHY WHY WHY..... I really don't get why people love this place so much.... It's SUPER expensive and super touristy. We did the train and garden ticket (complete waste of time and money). The train... wait in line for 2 hours for what was like a 20 minutes train ride through fake show farm set ups.. Yup cardboard cut outs... there was minimal pineapples on display and most of the other plants on display was either dead or about to die..... there was one nice shot as the train passes a reservoir with the mountains in the backdrop but that was it and then the Garden wow just wow it was incredibly  small, ponds looked like toxic pools.. There was one nice shot of a grassed area with palm trees but literally that was it. The gift shop was WAY WAY overpriced!!!!!!
+
+The only highlight is the actual dole whip, sugar cane juice and corn outside which you can enjoy without the other stuff. Be sure to use their buy 2 get 1 free coupon from their website if you do visit.
+
+Seriously don't waste your time and money coming here... if you are driving by its worth a stop for ice cream and a drink i. Not worth the drive from Honolulu or Waikiki for sure!!!!!!!!!!!"
+U015,D024,4,"Relaxing place just to unwind, swim or just sit back and take in all of the view... Parking is a nightmare as well hot tip Park at the marina.."
+U015,D025,5,there is an entrance fee...  stunning views.... get there at opening time as tour groups will arrive and spoil photos etc....
+U015,D026,5,FREE FREE FREE!!!!!!!! not many things in Hawaii are free so park...take your time explore and enjoy nature and the ridiculous views!!
+U015,D028,4,NIce park with water views... relaxing great place just unwind and hide away from the rat race without being too far way from hotels
+U015,D029,4,Delicious seafood restaurant............  Great service...........  Decent prices.   Free parking.......  overlooking the water
+U015,D035,2,Only spent a few hours here.. There are a variety of animals... however there were quite a few enclosures  empty.. Nice gardens and lawns... with the diamond head as a backdrop
+U015,D036,4,"Beautiful ginormous park, with a tennis court on one side.. stunning views of diamond head. The Waikiki Shell is also located next to the park. The park usually hosts festivities which can get busy and quite noisy."
+U015,D038,5,"Nice park. Great for photo opportunities, nice views. Make sure to bring everything with you .. water snacks footwear etc"
