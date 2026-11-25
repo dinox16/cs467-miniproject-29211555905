@@ -89,14 +89,14 @@ def save_rating_distribution(ratings, path):
 
 def save_category_distribution(items, path):
     table = pd.crosstab(items["region"], items["budget_level"])
-    table = table[[c for c in ["low", "medium", "high"] if c in table.columns]]
+    table = table.reindex(columns=["Low", "Medium", "High", "Unknown"], fill_value=0)
     fig, axes = plt.subplots(1, 2, figsize=(11, 4.5))
-    table.plot(kind="bar", stacked=True, ax=axes[0], color=["#8fbf9f", "#f2c14e", "#d1495b"])
+    table.plot(kind="bar", stacked=True, ax=axes[0], color=["#8fbf9f", "#f2c14e", "#d1495b", "#aaaaaa"])
     axes[0].set_title("Destinations by region and budget")
     axes[0].set_xlabel("Region")
     axes[0].set_ylabel("Number of destinations")
     axes[0].tick_params(axis="x", rotation=0)
-    tags = items["activities_tags"].str.split("|").explode().value_counts().head(12)
+    tags = items["activities_tags"].str.split(r"[,|]").explode().str.strip().value_counts().head(12)
     axes[1].barh(tags.index[::-1], tags.values[::-1], color="#3b7ea1")
     axes[1].set_title("Top 12 activity tags")
     axes[1].set_xlabel("Number of destinations")
@@ -113,7 +113,7 @@ def save_precision_chart(results, path):
         ax.text(bar.get_x() + bar.get_width() / 2, value + 0.005, f"{value:.3f}", ha="center")
     ax.set_ylabel("Precision@5")
     ax.set_title("Precision@5 by method")
-    ax.set_ylim(0, max(results["precision_at_5"]) * 1.25)
+    ax.set_ylim(0, max(0.05, max(results["precision_at_5"]) * 1.25))
     fig.tight_layout()
     fig.savefig(path, dpi=150)
     plt.close(fig)
@@ -149,7 +149,11 @@ def main():
     save_category_distribution(items, os.path.join(RESULTS_DIR, "category_distribution.png"))
     save_precision_chart(results, os.path.join(RESULTS_DIR, "precision_at_5.png"))
     save_error_chart(results, os.path.join(RESULTS_DIR, "rating_error.png"))
-    print(results.round(3).to_string(index=False))
+    table = results.to_string(index=False, float_format=lambda x: f"{x:.4f}", na_rep="N/A")
+    print(table)
+    with open(os.path.join(RESULTS_DIR, "evaluation_summary.txt"), "w", encoding="utf-8") as f:
+        f.write("30 random per-user splits; 3 held-out ratings per user; relevant rating >= 4.\n" + table + "\n")
+    print(f"Saved evaluation table and charts: {RESULTS_DIR}")
     return results
 
 

@@ -2,6 +2,7 @@ import argparse
 import os
 
 import pandas as pd
+import numpy as np
 
 from recommender import TravelRecommender
 
@@ -10,8 +11,8 @@ DATA_DIR = os.path.join(ROOT, "data")
 RESULTS_DIR = os.path.join(ROOT, "results")
 
 TEST_QUERY = "relaxing coastal town with seafood, cafes, and heritage"
-TEST_USER = "U005"
-TEST_COLD_START = "I like quiet mountains and tea hills"
+TEST_USER = None
+TEST_COLD_START = "I enjoy quiet mountains, scenic hiking trails, and nature."
 
 
 def format_results(title, results, score_name):
@@ -46,6 +47,11 @@ def test_case_query(model):
 
 
 def test_case_returning(model, user_id=TEST_USER):
+    if user_id is None:
+        eligible = [u for u in model.user_ids if len(model.rated_indexes(u)) >= 5]
+        if not eligible:
+            return ["No traveler has at least five ratings."]
+        user_id = max(eligible, key=lambda u: np.isfinite(model.collaborative_prediction(u)[0][np.setdiff1d(np.arange(len(model.item_ids)), model.rated_indexes(u))]).sum())
     lines = ["=== TEST CASE 2: Returning traveler ===", describe_user(model, user_id), ""]
     lines += format_results("Popularity baseline Top-5:", model.recommend_popularity(user_id), "weighted rating")
     lines.append("")
@@ -88,10 +94,11 @@ def run_custom(model, user_id, query):
 
 def main():
     parser = argparse.ArgumentParser(description="Travel destination recommender")
-    parser.add_argument("--user", help="User ID, for example U05")
+    parser.add_argument("--user", help="User ID, for example U005")
     parser.add_argument("--query", help="Your travel wish in simple words")
     parser.add_argument("--demo", action="store_true", help="Run the 3 test cases")
-    parser.add_argument("--save", action="store_true", help="Save demo output to results/sample_outputs.txt")
+    parser.add_argument("--save", action="store_true", help="Save custom output to results/custom_output.txt")
+    parser.add_argument("--skip-evaluation", action="store_true", help="Run demo without offline evaluation")
     args = parser.parse_args()
 
     items = pd.read_csv(os.path.join(DATA_DIR, "items.csv"))
@@ -105,10 +112,17 @@ def main():
 
     text = "\n".join(lines)
     print(text)
-    if args.save:
+    custom = bool(args.user or args.query)
+    if not custom or args.save:
         os.makedirs(RESULTS_DIR, exist_ok=True)
-        with open(os.path.join(RESULTS_DIR, "sample_outputs.txt"), "w", encoding="utf-8") as f:
+        output_path = os.path.join(RESULTS_DIR, "custom_output.txt" if custom else "sample_outputs.txt")
+        with open(output_path, "w", encoding="utf-8") as f:
             f.write(text + "\n")
+        print(f"Saved recommendations: {output_path}")
+    if not custom and not args.skip_evaluation:
+        from evaluate import main as evaluate_main
+        print("\n=== OFFLINE EVALUATION (30 splits, 3 hidden ratings per user) ===", flush=True)
+        evaluate_main()
 
 
 if __name__ == "__main__":
