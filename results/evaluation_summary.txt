@@ -1,0 +1,7 @@
+30 random per-user splits; 3 held-out ratings per user; relevant rating >= 4.
+     method  precision_at_5   rmse    mae
+     Random          0.1213    N/A    N/A
+ Popularity          0.1058 0.6998 0.5478
+NLP Content          0.1271 0.6048 0.3664
+    User CF          0.1120 0.6433 0.5056
+     Hybrid          0.1311 0.5867 0.4172

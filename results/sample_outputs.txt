@@ -1,0 +1,81 @@
+=== TEST CASE 1: Preference query ===
+Query: relaxing coastal town with seafood, cafes, and heritage
+
+NLP content-based Top-5:
+  1. Nico's Pier 38 (Hawaii, USA, Medium budget) | similarity: 0.276
+     keywords: seafood
+  2. Giovanni's Shrimp Truck (Hawaii, USA, Medium budget) | similarity: 0.224
+     keywords: seafood
+  3. Giovanni's Aloha Shrimp (Hawaii, USA, Medium budget) | similarity: 0.168
+     keywords: seafood
+  4. Shark’s Cove (Hawaii, USA, Unknown budget) | similarity: 0.149
+     keywords: coastal
+  5. Ted's Bakery (Hawaii, USA, Low budget) | similarity: 0.145
+     keywords: cafe
+
+=== TEST CASE 2: Returning traveler ===
+Traveler U007 rated 15 trips. Top liked: Koko Crater Railway Trailhead, Laniakea Beach, Sunset Beach Park, Bishop Museum, Giovanni's Shrimp Truck.
+
+Popularity baseline Top-5:
+  1. Pillbox Hike (Hawaii, USA, Unknown budget) | weighted rating: 4.896
+     average rating from 8 travelers
+  2. Pearl Harbor National Memorial (Hawaii, USA, Unknown budget) | weighted rating: 4.896
+     average rating from 8 travelers
+  3. Makapuʻu Lookout (Hawaii, USA, Unknown budget) | weighted rating: 4.873
+     average rating from 6 travelers
+  4. Waimea Canyon State Park (Hawaii, USA, Unknown budget) | weighted rating: 4.873
+     average rating from 6 travelers
+  5. Kapiʻolani Regional Park (Hawaii, USA, Unknown budget) | weighted rating: 4.806
+     average rating from 8 travelers
+
+NLP content-based Top-5 (user profile):
+  1. Ala Moana Regional Park (Hawaii, USA, Unknown budget) | similarity: 0.328
+     keywords: park, attraction, tourist
+  2. Kualoa Regional Park (Hawaii, USA, Unknown budget) | similarity: 0.314
+     keywords: park, tourist, attraction
+  3. Koko Head District Park (Hawaii, USA, Unknown budget) | similarity: 0.302
+     keywords: attraction, tourist, area
+  4. Diamond Head Beach Park (Hawaii, USA, Unknown budget) | similarity: 0.301
+     keywords: park, beach, tourist
+  5. Kapiʻolani Regional Park (Hawaii, USA, Unknown budget) | similarity: 0.299
+     keywords: park, attraction, tourist
+
+User-based collaborative Top-5:
+  1. Pillbox Hike (Hawaii, USA, Unknown budget) | predicted rating: 4.486
+     predicted from 3 similar reviewers
+  2. Waimea Canyon State Park (Hawaii, USA, Unknown budget) | predicted rating: 4.474
+     predicted from 3 similar reviewers
+  3. Honolulu Watershed Forest Reserve (Hawaii, USA, Unknown budget) | predicted rating: 4.434
+     predicted from 2 similar reviewers
+  4. Sans Souci State Recreational Park (Hawaii, USA, Unknown budget) | predicted rating: 4.434
+     predicted from 2 similar reviewers
+  5. Kapiʻolani Regional Park (Hawaii, USA, Unknown budget) | predicted rating: 4.417
+     predicted from 3 similar reviewers
+
+Hybrid Top-5:
+  1. Ala Moana Regional Park (Hawaii, USA, Unknown budget) | hybrid score: 0.530
+     keywords: park, attraction, tourist | 3 similar reviewers
+  2. Kualoa Regional Park (Hawaii, USA, Unknown budget) | hybrid score: 0.528
+     keywords: park, tourist, attraction | 1 similar reviewers
+  3. Kapiʻolani Regional Park (Hawaii, USA, Unknown budget) | hybrid score: 0.521
+     keywords: park, attraction, tourist | 3 similar reviewers
+  4. Pillbox Hike (Hawaii, USA, Unknown budget) | hybrid score: 0.520
+     keywords: attraction, tourist, hiking | 3 similar reviewers
+  5. Koko Head District Park (Hawaii, USA, Unknown budget) | hybrid score: 0.516
+     keywords: attraction, tourist, area | 2 similar reviewers
+
+=== TEST CASE 3: Cold-start visitor ===
+New visitor says: I enjoy quiet mountains, scenic hiking trails, and nature.
+
+Recommendations from the text only:
+  1. Honolulu Watershed Forest Reserve (Hawaii, USA, Unknown budget) | similarity: 0.346
+     keywords: nature, hiking, trail
+  2. Kaʻena Point State Park (Hawaii, USA, Unknown budget) | similarity: 0.225
+     keywords: scenic, trail, hiking
+  3. Makapu‘u Point Lighthouse Trail (Hawaii, USA, Unknown budget) | similarity: 0.207
+     keywords: hiking, trail
+  4. Pillbox Hike (Hawaii, USA, Unknown budget) | similarity: 0.183
+     keywords: hiking, trail
+  5. Waimānalo Beach Park (Hawaii, USA, Unknown budget) | similarity: 0.173
+     keywords: quiet
+
