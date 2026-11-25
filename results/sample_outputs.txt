@@ -32,9 +32,9 @@ NLP content-based Top-5 (user profile):
   1. Ala Moana Regional Park (Hawaii, USA, Unknown budget) | similarity: 0.328
      keywords: park, attraction, tourist
   2. Kualoa Regional Park (Hawaii, USA, Unknown budget) | similarity: 0.314
-     keywords: park, tourist, attraction
+     keywords: park, attraction, tourist
   3. Koko Head District Park (Hawaii, USA, Unknown budget) | similarity: 0.302
-     keywords: attraction, tourist, area
+     keywords: tourist, attraction, area
   4. Diamond Head Beach Park (Hawaii, USA, Unknown budget) | similarity: 0.301
      keywords: park, beach, tourist
   5. Kapiʻolani Regional Park (Hawaii, USA, Unknown budget) | similarity: 0.299
@@ -56,13 +56,13 @@ Hybrid Top-5:
   1. Ala Moana Regional Park (Hawaii, USA, Unknown budget) | hybrid score: 0.530
      keywords: park, attraction, tourist | 3 similar reviewers
   2. Kualoa Regional Park (Hawaii, USA, Unknown budget) | hybrid score: 0.528
-     keywords: park, tourist, attraction | 1 similar reviewers
+     keywords: park, attraction, tourist | 1 similar reviewers
   3. Kapiʻolani Regional Park (Hawaii, USA, Unknown budget) | hybrid score: 0.521
      keywords: park, attraction, tourist | 3 similar reviewers
   4. Pillbox Hike (Hawaii, USA, Unknown budget) | hybrid score: 0.520
      keywords: attraction, tourist, hiking | 3 similar reviewers
   5. Koko Head District Park (Hawaii, USA, Unknown budget) | hybrid score: 0.516
-     keywords: attraction, tourist, area | 2 similar reviewers
+     keywords: tourist, attraction, area | 2 similar reviewers
 
 === TEST CASE 3: Cold-start visitor ===
 New visitor says: I enjoy quiet mountains, scenic hiking trails, and nature.

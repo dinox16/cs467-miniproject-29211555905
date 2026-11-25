@@ -1,0 +1,12 @@
+test_all_users (test_recommender.RecommenderTests.test_all_users) ... ok
+test_constant_ratings (test_recommender.RecommenderTests.test_constant_ratings) ... ok
+test_data (test_recommender.RecommenderTests.test_data) ... ok
+test_demo (test_recommender.RecommenderTests.test_demo) ... ok
+test_query (test_recommender.RecommenderTests.test_query) ... ok
+test_split (test_recommender.RecommenderTests.test_split) ... ok
+test_unknown_hybrid (test_recommender.RecommenderTests.test_unknown_hybrid) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.464s
+
+OK
